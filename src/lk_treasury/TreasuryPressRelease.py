@@ -1,9 +1,9 @@
 from typing import Generator
 
-from utils import Log, TimeFormat
+from utils import Hash, Log, TimeFormat
 
 from scraper import AbstractPDFDoc
-from utils_future import WWW, Hash
+from utils_future import WWW
 
 log = Log('TreasuryPressRelease')
 
