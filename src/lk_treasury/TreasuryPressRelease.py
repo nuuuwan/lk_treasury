@@ -14,7 +14,7 @@ class TreasuryPressRelease(AbstractPDFDoc):
 
     @classmethod
     def get_doc_class_label(cls) -> str:
-        return 'lk_treasury_press_release'
+        return 'lk_treasury_press_releases'
 
     @classmethod
     def get_doc_class_description(cls) -> str:
