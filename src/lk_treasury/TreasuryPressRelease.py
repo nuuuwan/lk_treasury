@@ -23,18 +23,18 @@ class TreasuryPressRelease(AbstractPDFDoc):
     @classmethod
     def get_doc_class_emoji(cls) -> str:
         return "💰"
-    
+
     def detect_lang(text: str) -> str:
-        counts = {"si": 0, "ta": 0,"en": 0}
+        counts = {"si": 0, "ta": 0, "en": 0}
         for ch in text:
             code = ord(ch)
             if 0x0D80 <= code <= 0x0DFF:
                 counts["si"] += 1
             elif 0x0B80 <= code <= 0x0BFF:
                 counts["ta"] += 1
-            elif 0x0020 <= code <= 0x007F:  
+            elif 0x0020 <= code <= 0x007F:
                 counts["en"] += 1
-        return max(counts, key=counts.get)    
+        return max(counts, key=counts.get)
 
     @classmethod
     def gen_docs_for_year(
