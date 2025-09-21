@@ -1,0 +1,21 @@
+Ideals of President and Prime Minister made the budget easy for all - Finance Minister Ravi Karunanayake
+
+Minister of Finance Mr Ravi Karunanayake said that it was the ideals of the President Maithripala Sirisena and the Prime Minister Ranil Wickremasinghe that were converted into practice through the budget- 2016.
+
+The minister made this observation when he met a representative gatherings of Sri Lankan blu chip companies and other private sector entrueprenuers at a Colombo Hotel yesterday.
+
+Minister Ravi Karunanayake speaking at this post budget interactive session said that this year’s budget is an unpresedented move to change the landscape of the country through increased public investment and the public private partnership in many sectors of the economy.
+
+Mr Ravi Karunanayake further added that the Budget – 2016 has full of benefits and opportunities for both the general public and the private sector. The Minister said that as he had predicted addressing several pre budget sessions, the first budget of the Good Governance government of President and the Prime Minister the budget – 2016 is capital oreinted and the life of every body has been made in easy.
+
+Now the Government has delivered as it promised. Therefore it is upto you all – the private sector to sieze this golden opportunity to be in the saddle of economic drive as the engine of growth” said the Minister explaining the opportunities available for the private sector .
+
+The Minister explaining the facilities that were made available for the Public Private Partnership projects (PPP) said that impediments that were on the path of of developments have been significantly removed.
+
+The Minister said that the Government targets creating one million jobs with PPPs. Our laws are archaic and the budget proposed to do away with all such laws. We take all restrictions away to ensure that the private sector plays a pivotal role in economic development.
+
+The minister clarifying a statement that was in the budget proposal said that there were no fee involved for the introduction of Residence Visa to foreign investors. He said that those foreign investors who bring an investment of USD 250,000 will be given residence visa for a period of three years and those bring USD 5 million would be given permanent residence visa with the approval of the Cabinet of Ministers.
+
+Finance Minister Ravi Karunanayake stressing the need of the hour to emulate the Benchmark practices of other developed economis said that geographically Sri Lanka is in the best location, so the government was giving the best opportunity to make the maximum out of it. The government has opened up new sectors, and giving the chance for foreign investors with or without local collaborations to invest our economy rather than investing elsewhere. Even for those who maintain deposits in foreign countries with no returns we will ensure 2- 3 percent returns if it channelled through banks. The proposed financial hub would be a key component of the Budget and Minister Karunanayake encouraged key business leaders and other stakeholders present at this post
+
+budget session to make use of the most of these fresh opportunities offered by the Budget. We are focusing on getting this moving by April, we already have 37 banks and we believe there will be another 10 - 15 banks coming in and that will be a vibrant offshore banking as well as financial hub. We have opened up our services sector. We want tourism numbers to increase and that is why we are planning to open shopping malls and introduce competitive pricing. When asked about the government restricting the import of electric vehicles in the absence of a proper public transport system the minister defending the government’s move said that the budget has allocated initially Rs 1000 milliion under a proposed “Park and Ride” to facilitate the commuters in the country in terms of comfort and cost. Under this the minister said that railway and bus transport in selected towns such as Jaela, Avissawella, Panadura, Kadawatha and Piliyandala will be improved.
