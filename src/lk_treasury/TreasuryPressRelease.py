@@ -1,9 +1,11 @@
 from typing import Generator
 
-from utils import TimeFormat
+from utils import Log, TimeFormat
 
 from scraper import AbstractPDFDoc
 from utils_future import WWW
+
+log = Log('TreasuryPressRelease')
 
 
 class TreasuryPressRelease(AbstractPDFDoc):
@@ -30,7 +32,8 @@ class TreasuryPressRelease(AbstractPDFDoc):
         soup = www.soup
         assert soup
         table = soup.find('table', class_='MuiTable-root jss1')
-        for tr in table.find_all('tr'):
+        trs = table.find_all('tr')
+        for i_tr, tr in enumerate(trs, start=1):
             tds = tr.find_all('td')
             if len(tds) != 3:
                 continue
@@ -41,8 +44,8 @@ class TreasuryPressRelease(AbstractPDFDoc):
             description = tds[1].text.strip()
             a = tds[2].find('a')
             url_pdf = f'{cls.URL_BASE}/{a.get("href")}'
-            return cls(
-                num=date_str,
+            yield cls(
+                num=f'{date_str}-{i_tr:03d}',
                 date_str=date_str,
                 description=description,
                 url_metadata=url_for_year,
