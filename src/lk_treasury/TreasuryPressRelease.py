@@ -11,6 +11,10 @@ class TreasuryPressRelease(AbstractPDFDoc):
     URL_PRESS_RELEASES = f'{URL_BASE}/web/press-releases'
 
     @classmethod
+    def get_doc_class_label(cls) -> str:
+        return 'lk_treasury_press_release'
+
+    @classmethod
     def get_doc_class_description(cls) -> str:
         return "A Sri Lanka Treasury press release shares key govt financial updates—on budgets, debt, or policy—vital for transparency, guiding investors, citizens, and markets on the nation’s economic direction."  # noqa: E501
 
