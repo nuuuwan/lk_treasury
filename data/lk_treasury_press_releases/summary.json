@@ -2,13 +2,13 @@
   "doc_class_label": "lk_treasury_press_releases",
   "doc_class_emoji": "\ud83d\udcb0",
   "doc_class_description": "A Sri Lanka Treasury press release shares key govt financial updates\u2014on budgets, debt, or policy\u2014vital for transparency, guiding investors, citizens, and markets on the nation\u2019s economic direction.",
-  "time_updated": "2025-09-28 17:06:31",
+  "time_updated": "2025-09-28 18:18:53",
   "n_docs": 133,
   "n_docs_with_pdfs": 133,
   "n_docs_with_text": 133,
   "date_str_min": "2015-09-08",
   "date_str_max": "2025-07-30",
-  "dataset_size": 142939533,
+  "dataset_size": 142939528,
   "url_source_list": [
     "https://www.treasury.gov.lk"
   ],
