@@ -1,6 +1,6 @@
 # 💰#SriLanka 🇱🇰 Treasury Press Releases `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--07_11:07:49-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--07_12:13:35-green)
 
 [https://github.com/nuuuwan/lk_treasury/tree/data_lk_treasury_press_releases/data/lk_treasury_press_releases](https://github.com/nuuuwan/lk_treasury/tree/data_lk_treasury_press_releases/data/lk_treasury_press_releases)
 
@@ -11,6 +11,8 @@ A Sri Lanka Treasury press release shares key govt financial updates—on budget
 - In **JSON**, **PDF**, **TXT** & **🤗 Hugging Face**
 
 - In **සිංහල** & **English**
+
+- 🎓 Cite as **[arXiv:2510.04124](https://arxiv.org/abs/2510.04124) [cs.CL]**
 
 ## 📝 Example Metadata
 
