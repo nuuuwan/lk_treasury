@@ -1,12 +1,12 @@
 # 💰#SriLanka 🇱🇰 Treasury Press Releases `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--09_08:25:03-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--09_09:14:00-green)
 
 [https://github.com/nuuuwan/lk_treasury/tree/data_lk_treasury_press_releases/data/lk_treasury_press_releases](https://github.com/nuuuwan/lk_treasury/tree/data_lk_treasury_press_releases/data/lk_treasury_press_releases)
 
 A Sri Lanka Treasury press release shares key govt financial updates—on budgets, debt, or policy—vital for transparency, guiding investors, citizens, and markets on the nation’s economic direction.
 
-- [**133** documents](https://github.com/nuuuwan/lk_treasury/tree/data_lk_treasury_press_releases/data/lk_treasury_press_releases) (**143.1 MB**), from **2015-09-08** to **2025-07-30**, scraped from [https://www.treasury.gov.lk](https://www.treasury.gov.lk)
+- [**134** documents](https://github.com/nuuuwan/lk_treasury/tree/data_lk_treasury_press_releases/data/lk_treasury_press_releases) (**143.5 MB**), from **2015-09-08** to **2025-10-07**, scraped from [https://www.treasury.gov.lk](https://www.treasury.gov.lk)
 
 - In **JSON**, **PDF**, **TXT** & **🤗 Hugging Face**
 
@@ -19,13 +19,13 @@ A Sri Lanka Treasury press release shares key govt financial updates—on budget
 ```json
 {
     "doc_type": "lk_treasury_press_releases",
-    "doc_id": "2025-07-30-d1aea6",
-    "num": "d1aea6",
-    "date_str": "2025-07-30",
-    "description": "Investor Call in Relation to Macro-Linked and Governance-Linked Bonds",
+    "doc_id": "2025-10-07-29192b",
+    "num": "29192b",
+    "date_str": "2025-10-07",
+    "description": "AIIB Provides USD52 Million to Strengthen Sri Lanka\u2019s Power Transmission and Support Renewable Energy Growth",
     "url_metadata": "https://www.treasury.gov.lk//web/press-releases/section/2025",
     "lang": "en",
-    "url_pdf": "https://www.treasury.gov.lk//api/file/bf543476-9d80-4115-8f1f-4b1eb0a8526c"
+    "url_pdf": "https://www.treasury.gov.lk//api/file/54839997-505e-4eba-94f3-7502d45c3632"
 }
 ```
 
@@ -40,6 +40,7 @@ A Sri Lanka Treasury press release shares key govt financial updates—on budget
 
 ## 🆕 20 Latest documents
 
+- 2025-10-07 | `29192b` | AIIB Provides USD52 Million to Strengthen Sri Lanka’s Power Transmission and Support Renewable Energy Growth | [data](https://github.com/nuuuwan/lk_treasury/tree/data_lk_treasury_press_releases/data/lk_treasury_press_releases/2020s/2025/2025-10-07-29192b)
 - 2025-07-30 | `d1aea6` | Investor Call in Relation to Macro-Linked and Governance-Linked Bonds | [data](https://github.com/nuuuwan/lk_treasury/tree/data_lk_treasury_press_releases/data/lk_treasury_press_releases/2020s/2025/2025-07-30-d1aea6)
 - 2025-07-14 | `8adac6` | Signing of Bilateral Amendatory Loan Agreements between GoSL and the Saudi Fund for Development (SFD) under the External Debt Restructuring Process of Sri Lanka. | [data](https://github.com/nuuuwan/lk_treasury/tree/data_lk_treasury_press_releases/data/lk_treasury_press_releases/2020s/2025/2025-07-14-8adac6)
 - 2025-07-11 | `b42c9e` | Sri Lanka Recorded One of the Most Significant Score Improvements in Investor Relations Practices in 2025 | [data](https://github.com/nuuuwan/lk_treasury/tree/data_lk_treasury_press_releases/data/lk_treasury_press_releases/2020s/2025/2025-07-11-b42c9e)
@@ -59,7 +60,6 @@ A Sri Lanka Treasury press release shares key govt financial updates—on budget
 - 2024-12-13 | `79532f` | SRI LANKA ANNOUNCES THE SUCCESSFUL EXPIRATION OF ITS CONSENT SOLICITATION AND EXCHANGE OFFER RELATED TO ITS INTERNATIONAL SOVEREIGN BONDS | [data](https://github.com/nuuuwan/lk_treasury/tree/data_lk_treasury_press_releases/data/lk_treasury_press_releases/2020s/2024/2024-12-13-79532f)
 - 2024-12-05 | `a356d0` | Supplementary Estimates-2024 | [data](https://github.com/nuuuwan/lk_treasury/tree/data_lk_treasury_press_releases/data/lk_treasury_press_releases/2020s/2024/2024-12-05-a356d0)
 - 2024-12-05 | `540da2` | Vote on Account-2025 | [data](https://github.com/nuuuwan/lk_treasury/tree/data_lk_treasury_press_releases/data/lk_treasury_press_releases/2020s/2024/2024-12-05-540da2)
-- 2024-11-30 | `71421a` | අර්තාපල් හා ලොකු ළූණු සදහා වන බදු සංශෝධන | [data](https://github.com/nuuuwan/lk_treasury/tree/data_lk_treasury_press_releases/data/lk_treasury_press_releases/2020s/2024/2024-11-30-71421a)
 
 ---
 
