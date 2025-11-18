@@ -2,32 +2,32 @@
   "doc_class_label": "lk_treasury_press_releases",
   "doc_class_emoji": "\ud83d\udcb0",
   "doc_class_description": "A Sri Lanka Treasury press release shares key govt financial updates\u2014on budgets, debt, or policy\u2014vital for transparency, guiding investors, citizens, and markets on the nation\u2019s economic direction.",
-  "time_updated": "2025-11-18 08:34:16",
-  "n_docs": 136,
-  "n_docs_with_pdfs": 136,
-  "n_docs_with_text": 136,
+  "time_updated": "2025-11-18 09:19:37",
+  "n_docs": 137,
+  "n_docs_with_pdfs": 137,
+  "n_docs_with_text": 137,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2015-09-08",
-  "date_str_max": "2025-10-31",
-  "dataset_size": 146950598,
+  "date_str_max": "2025-11-17",
+  "dataset_size": 147811072,
   "url_source_list": [
     "https://www.treasury.gov.lk"
   ],
   "url_data": "https://github.com/nuuuwan/lk_treasury/tree/data_lk_treasury_press_releases/data/lk_treasury_press_releases",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_treasury/refs/heads/data_lk_treasury_press_releases/data/lk_treasury_press_releases/docs_by_year_and_lang.png",
   "langs": [
-    "si",
-    "en"
+    "en",
+    "si"
   ],
   "latest_doc_d": {
     "doc_type": "lk_treasury_press_releases",
-    "doc_id": "2025-10-31-9ef6a3",
-    "num": "9ef6a3",
-    "date_str": "2025-10-31",
-    "description": "Financial Assistance from the Asian Development Bank (ADB) for the Second Integrated Road Investment Program (i Road 2)- Tranche 5",
+    "doc_id": "2025-11-17-65c0a0",
+    "num": "65c0a0",
+    "date_str": "2025-11-17",
+    "description": "Financial Assistance of USD 300 Million from the Asian Development Bank (ADB)",
     "url_metadata": "https://www.treasury.gov.lk//web/press-releases/section/2025",
     "lang": "en",
-    "url_pdf": "https://www.treasury.gov.lk//api/file/1d873f91-54ae-4f85-bd00-8349862714b7"
+    "url_pdf": "https://www.treasury.gov.lk//api/file/05eb7348-b314-417b-895e-546d51ea25da"
   }
 }
