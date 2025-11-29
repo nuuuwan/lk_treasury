@@ -1,12 +1,12 @@
 # 💰#SriLanka 🇱🇰 Treasury Press Releases `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--29_16:09:45-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--29_17:06:57-green)
 
 [https://github.com/nuuuwan/lk_treasury/tree/data_lk_treasury_press_releases/data/lk_treasury_press_releases](https://github.com/nuuuwan/lk_treasury/tree/data_lk_treasury_press_releases/data/lk_treasury_press_releases)
 
 A Sri Lanka Treasury press release shares key govt financial updates—on budgets, debt, or policy—vital for transparency, guiding investors, citizens, and markets on the nation’s economic direction.
 
-- [**137** documents](https://github.com/nuuuwan/lk_treasury/tree/data_lk_treasury_press_releases/data/lk_treasury_press_releases) (**148.6 MB**), from **2015-09-08** to **2025-11-17**, scraped from [https://www.treasury.gov.lk](https://www.treasury.gov.lk)
+- [**138** documents](https://github.com/nuuuwan/lk_treasury/tree/data_lk_treasury_press_releases/data/lk_treasury_press_releases) (**148.7 MB**), from **2015-09-08** to **2025-11-29**, scraped from [https://www.treasury.gov.lk](https://www.treasury.gov.lk)
 
 - In **JSON**, **PDF**, **TXT** & **🤗 Hugging Face**
 
@@ -19,13 +19,13 @@ A Sri Lanka Treasury press release shares key govt financial updates—on budget
 ```json
 {
     "doc_type": "lk_treasury_press_releases",
-    "doc_id": "2025-11-17-65c0a0",
-    "num": "65c0a0",
-    "date_str": "2025-11-17",
-    "description": "Financial Assistance of USD 300 Million from the Asian Development Bank (ADB)",
+    "doc_id": "2025-11-29-4e2cb9",
+    "num": "4e2cb9",
+    "date_str": "2025-11-29",
+    "description": "Instructions for Disaster Relief Contributions for the People Affected by the Emergency Disaster Situation",
     "url_metadata": "https://www.treasury.gov.lk//web/press-releases/section/2025",
     "lang": "en",
-    "url_pdf": "https://www.treasury.gov.lk//api/file/05eb7348-b314-417b-895e-546d51ea25da"
+    "url_pdf": "https://www.treasury.gov.lk//api/file/df66aba7-92e3-42ba-9845-6f06e0b33edc"
 }
 ```
 
@@ -40,6 +40,7 @@ A Sri Lanka Treasury press release shares key govt financial updates—on budget
 
 ## 🆕 20 Latest documents
 
+- 2025-11-29 | `4e2cb9` | Instructions for Disaster Relief Contributions for the People Affected by the Emergency Disaster Situation | [data](https://github.com/nuuuwan/lk_treasury/tree/data_lk_treasury_press_releases/data/lk_treasury_press_releases/2020s/2025/2025-11-29-4e2cb9)
 - 2025-11-17 | `65c0a0` | Financial Assistance of USD 300 Million from the Asian Development Bank (ADB) | [data](https://github.com/nuuuwan/lk_treasury/tree/data_lk_treasury_press_releases/data/lk_treasury_press_releases/2020s/2025/2025-11-17-65c0a0)
 - 2025-10-31 | `9ef6a3` | Financial Assistance from the Asian Development Bank (ADB) for the Second Integrated Road Investment Program (i Road 2)- Tranche 5 | [data](https://github.com/nuuuwan/lk_treasury/tree/data_lk_treasury_press_releases/data/lk_treasury_press_releases/2020s/2025/2025-10-31-9ef6a3)
 - 2025-10-17 | `aa8eb2` | Financial Assistance from the Asian Development Bank for the Strengthening Integrated Health Care and Governance for Universal Health Coverage Program | [data](https://github.com/nuuuwan/lk_treasury/tree/data_lk_treasury_press_releases/data/lk_treasury_press_releases/2020s/2025/2025-10-17-aa8eb2)
@@ -59,7 +60,6 @@ A Sri Lanka Treasury press release shares key govt financial updates—on budget
 - 2025-01-09 | `1376d0` | A Concessionary Pledge Loan Scheme for Small and Medium Scale Paddy Millers and Cooperative Societies from 3rd January 2025 to purchase Paddy for Maha Season 2024/2025 | [data](https://github.com/nuuuwan/lk_treasury/tree/data_lk_treasury_press_releases/data/lk_treasury_press_releases/2020s/2025/2025-01-09-1376d0)
 - 2024-12-18 | `fa680e` | Removal of Temporary Suspension on Importation of Motor Vehicles – Stage I | [data](https://github.com/nuuuwan/lk_treasury/tree/data_lk_treasury_press_releases/data/lk_treasury_press_releases/2020s/2024/2024-12-18-fa680e)
 - 2024-12-18 | `eb8210` | Establishment of the Public Debt Management Office | [data](https://github.com/nuuuwan/lk_treasury/tree/data_lk_treasury_press_releases/data/lk_treasury_press_releases/2020s/2024/2024-12-18-eb8210)
-- 2024-12-18 | `044443` | Sri Lanka Announces Final Results of the Invitation to Exchange in Respect of its International Sovereign Bonds | [data](https://github.com/nuuuwan/lk_treasury/tree/data_lk_treasury_press_releases/data/lk_treasury_press_releases/2020s/2024/2024-12-18-044443)
 
 ---
 
