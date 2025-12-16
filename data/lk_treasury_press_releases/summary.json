@@ -2,15 +2,15 @@
   "doc_class_label": "lk_treasury_press_releases",
   "doc_class_emoji": "\ud83d\udcb0",
   "doc_class_description": "A Sri Lanka Treasury press release shares key govt financial updates\u2014on budgets, debt, or policy\u2014vital for transparency, guiding investors, citizens, and markets on the nation\u2019s economic direction.",
-  "time_updated": "2025-12-16 09:23:26",
-  "n_docs": 138,
-  "n_docs_with_pdfs": 138,
-  "n_docs_with_text": 138,
+  "time_updated": "2025-12-16 10:17:22",
+  "n_docs": 139,
+  "n_docs_with_pdfs": 139,
+  "n_docs_with_text": 139,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2015-09-08",
-  "date_str_max": "2025-11-29",
-  "dataset_size": 148820480,
+  "date_str_max": "2025-12-15",
+  "dataset_size": 149670726,
   "url_source_list": [
     "https://www.treasury.gov.lk"
   ],
@@ -22,12 +22,12 @@
   ],
   "latest_doc_d": {
     "doc_type": "lk_treasury_press_releases",
-    "doc_id": "2025-11-29-4e2cb9",
-    "num": "4e2cb9",
-    "date_str": "2025-11-29",
-    "description": "Instructions for Disaster Relief Contributions for the People Affected by the Emergency Disaster Situation",
+    "doc_id": "2025-12-15-96abbe",
+    "num": "96abbe",
+    "date_str": "2025-12-15",
+    "description": "USD 200 million Loan Assistance from the Asian Development Bank",
     "url_metadata": "https://www.treasury.gov.lk//web/press-releases/section/2025",
     "lang": "en",
-    "url_pdf": "https://www.treasury.gov.lk//api/file/df66aba7-92e3-42ba-9845-6f06e0b33edc"
+    "url_pdf": "https://www.treasury.gov.lk//api/file/f3154a92-cbb8-4f41-999c-4ec2fcefa54e"
   }
 }

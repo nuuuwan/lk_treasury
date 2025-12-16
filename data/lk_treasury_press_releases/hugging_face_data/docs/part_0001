@@ -1378,5 +1378,15 @@
     "url_metadata": "https://www.treasury.gov.lk//web/press-releases/section/2025",
     "lang": "en",
     "url_pdf": "https://www.treasury.gov.lk//api/file/df66aba7-92e3-42ba-9845-6f06e0b33edc"
+  },
+  {
+    "doc_type": "lk_treasury_press_releases",
+    "doc_id": "2025-12-15-96abbe",
+    "num": "96abbe",
+    "date_str": "2025-12-15",
+    "description": "USD 200 million Loan Assistance from the Asian Development Bank",
+    "url_metadata": "https://www.treasury.gov.lk//web/press-releases/section/2025",
+    "lang": "en",
+    "url_pdf": "https://www.treasury.gov.lk//api/file/f3154a92-cbb8-4f41-999c-4ec2fcefa54e"
   }
 ]
