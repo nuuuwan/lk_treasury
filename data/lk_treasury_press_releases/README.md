@@ -1,12 +1,12 @@
 # 💰#SriLanka 🇱🇰 Treasury Press Releases `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--01--25_12:18:08-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--01--25_13:09:17-green)
 
 [https://github.com/nuuuwan/lk_treasury/tree/data_lk_treasury_press_releases/data/lk_treasury_press_releases](https://github.com/nuuuwan/lk_treasury/tree/data_lk_treasury_press_releases/data/lk_treasury_press_releases)
 
 A Sri Lanka Treasury press release shares key govt financial updates—on budgets, debt, or policy—vital for transparency, guiding investors, citizens, and markets on the nation’s economic direction.
 
-- [**141** documents](https://github.com/nuuuwan/lk_treasury/tree/data_lk_treasury_press_releases/data/lk_treasury_press_releases) (**151.8 MB**), from **2015-09-08** to **2026-01-07**, scraped from [https://www.treasury.gov.lk](https://www.treasury.gov.lk)
+- [**141** documents](https://github.com/nuuuwan/lk_treasury/tree/data_lk_treasury_press_releases/data/lk_treasury_press_releases) (**150.9 MB**), from **2015-09-08** to **2026-01-07**, scraped from [https://www.treasury.gov.lk](https://www.treasury.gov.lk)
 
 - In **JSON**, **PDF**, **TXT** & **🤗 Hugging Face**
 
