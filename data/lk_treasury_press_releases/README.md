@@ -1,12 +1,12 @@
 # 💰#SriLanka 🇱🇰 Treasury Press Releases `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--02--06_14:20:41-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--02--06_15:20:19-green)
 
 [https://github.com/nuuuwan/lk_treasury/tree/data_lk_treasury_press_releases/data/lk_treasury_press_releases](https://github.com/nuuuwan/lk_treasury/tree/data_lk_treasury_press_releases/data/lk_treasury_press_releases)
 
 A Sri Lanka Treasury press release shares key govt financial updates—on budgets, debt, or policy—vital for transparency, guiding investors, citizens, and markets on the nation’s economic direction.
 
-- [**141** documents](https://github.com/nuuuwan/lk_treasury/tree/data_lk_treasury_press_releases/data/lk_treasury_press_releases) (**150.9 MB**), from **2015-09-08** to **2026-01-07**, scraped from [https://www.treasury.gov.lk](https://www.treasury.gov.lk)
+- [**142** documents](https://github.com/nuuuwan/lk_treasury/tree/data_lk_treasury_press_releases/data/lk_treasury_press_releases) (**151.1 MB**), from **2015-09-08** to **2026-02-05**, scraped from [https://www.treasury.gov.lk](https://www.treasury.gov.lk)
 
 - In **JSON**, **PDF**, **TXT** & **🤗 Hugging Face**
 
@@ -19,13 +19,13 @@ A Sri Lanka Treasury press release shares key govt financial updates—on budget
 ```json
 {
     "doc_type": "lk_treasury_press_releases",
-    "doc_id": "2026-01-07-21a49b",
-    "num": "21a49b",
-    "date_str": "2026-01-07",
-    "description": "Entering into an Agreement on Debt Restructuring between Federal Republic of Germany and the Government of the Democratic Socialist Republic of Sri Lanka in relation to the External Debt Restructuring Process",
+    "doc_id": "2026-02-05-2f8e89",
+    "num": "2f8e89",
+    "date_str": "2026-02-05",
+    "description": "The Government has scheduled an Investor Call in Relation to Macro-Linked and Governance-Linked Bonds on 11th of February 2026",
     "url_metadata": "https://www.treasury.gov.lk//web/press-releases/section/2026",
     "lang": "en",
-    "url_pdf": "https://www.treasury.gov.lk//api/file/d99b3803-f178-4457-99ac-880798cd459b"
+    "url_pdf": "https://www.treasury.gov.lk//api/file/f6f0b89e-ecb8-4538-b409-075010072080"
 }
 ```
 
@@ -40,6 +40,7 @@ A Sri Lanka Treasury press release shares key govt financial updates—on budget
 
 ## 🆕 20 Latest documents
 
+- 2026-02-05 | `2f8e89` | The Government has scheduled an Investor Call in Relation to Macro-Linked and Governance-Linked Bonds on 11th of February 2026 | [data](https://github.com/nuuuwan/lk_treasury/tree/data_lk_treasury_press_releases/data/lk_treasury_press_releases/2020s/2026/2026-02-05-2f8e89)
 - 2026-01-07 | `21a49b` | Entering into an Agreement on Debt Restructuring between Federal Republic of Germany and the Government of the Democratic Socialist Republic of Sri Lanka in relation to the External Debt Restructuring Process | [data](https://github.com/nuuuwan/lk_treasury/tree/data_lk_treasury_press_releases/data/lk_treasury_press_releases/2020s/2026/2026-01-07-21a49b)
 - 2025-12-19 | `be3fd8` | Financial Aid from the Asian Development Bank (ADB) for the Implementation of Transforming Irrigation Systems for Improved Food Security Project (Grant Financing) | [data](https://github.com/nuuuwan/lk_treasury/tree/data_lk_treasury_press_releases/data/lk_treasury_press_releases/2020s/2025/2025-12-19-be3fd8)
 - 2025-12-15 | `96abbe` | USD 200 million Loan Assistance from the Asian Development Bank | [data](https://github.com/nuuuwan/lk_treasury/tree/data_lk_treasury_press_releases/data/lk_treasury_press_releases/2020s/2025/2025-12-15-96abbe)
@@ -59,7 +60,6 @@ A Sri Lanka Treasury press release shares key govt financial updates—on budget
 - 2025-02-10 | `ca2f29` | රාජ්‍ය ආයෝජන අධීක්ෂණ හා ඇගයීම් කමිටුව පිහිටුවීම | [data](https://github.com/nuuuwan/lk_treasury/tree/data_lk_treasury_press_releases/data/lk_treasury_press_releases/2020s/2025/2025-02-10-ca2f29)
 - 2025-01-31 | `b0d84d` | Removal of Temporary Suspention on Importation of Motor Vehicles Stage III | [data](https://github.com/nuuuwan/lk_treasury/tree/data_lk_treasury_press_releases/data/lk_treasury_press_releases/2020s/2025/2025-01-31-b0d84d)
 - 2025-01-31 | `31a097` | Issuance of New Regulation and Order by the Minister of Finance, Planning and Economic Development | [data](https://github.com/nuuuwan/lk_treasury/tree/data_lk_treasury_press_releases/data/lk_treasury_press_releases/2020s/2025/2025-01-31-31a097)
-- 2025-01-11 | `70181d` | Revision of Excise Duty under Excise (Special Provisions) Act, No. 13 of 1989 | [data](https://github.com/nuuuwan/lk_treasury/tree/data_lk_treasury_press_releases/data/lk_treasury_press_releases/2020s/2025/2025-01-11-70181d)
 
 ---
 
