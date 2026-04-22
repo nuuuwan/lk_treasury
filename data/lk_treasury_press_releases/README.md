@@ -1,12 +1,12 @@
 # 💰#SriLanka 🇱🇰 Treasury Press Releases `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--04--22_21:28:00-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--04--22_22:22:27-green)
 
 [https://github.com/nuuuwan/lk_treasury/tree/data_lk_treasury_press_releases/data/lk_treasury_press_releases](https://github.com/nuuuwan/lk_treasury/tree/data_lk_treasury_press_releases/data/lk_treasury_press_releases)
 
 A Sri Lanka Treasury press release shares key govt financial updates—on budgets, debt, or policy—vital for transparency, guiding investors, citizens, and markets on the nation’s economic direction.
 
-- [**142** documents](https://github.com/nuuuwan/lk_treasury/tree/data_lk_treasury_press_releases/data/lk_treasury_press_releases) (**151.3 MB**), from **2015-09-08** to **2026-02-05**, scraped from [https://www.treasury.gov.lk](https://www.treasury.gov.lk)
+- [**143** documents](https://github.com/nuuuwan/lk_treasury/tree/data_lk_treasury_press_releases/data/lk_treasury_press_releases) (**151.5 MB**), from **2015-09-08** to **2026-04-22**, scraped from [https://www.treasury.gov.lk](https://www.treasury.gov.lk)
 
 - In **JSON**, **PDF**, **TXT** & **🤗 Hugging Face**
 
@@ -19,13 +19,13 @@ A Sri Lanka Treasury press release shares key govt financial updates—on budget
 ```json
 {
     "doc_type": "lk_treasury_press_releases",
-    "doc_id": "2026-02-05-2f8e89",
-    "num": "2f8e89",
-    "date_str": "2026-02-05",
-    "description": "The Government has scheduled an Investor Call in Relation to Macro-Linked and Governance-Linked Bonds on 11th of February 2026",
+    "doc_id": "2026-04-22-0d397a",
+    "num": "0d397a",
+    "date_str": "2026-04-22",
+    "description": "Cyber hackers have gained unauthorized access to the computer system of a department within the institution",
     "url_metadata": "https://www.treasury.gov.lk//web/press-releases/section/2026",
     "lang": "en",
-    "url_pdf": "https://www.treasury.gov.lk//api/file/f6f0b89e-ecb8-4538-b409-075010072080"
+    "url_pdf": "https://www.treasury.gov.lk//api/file/445fb251-cdbf-4802-8c4e-e25e671e602b"
 }
 ```
 
@@ -40,6 +40,7 @@ A Sri Lanka Treasury press release shares key govt financial updates—on budget
 
 ## 🆕 20 Latest documents
 
+- 2026-04-22 | `0d397a` | Cyber hackers have gained unauthorized access to the computer system of a department within the institution | [data](https://github.com/nuuuwan/lk_treasury/tree/data_lk_treasury_press_releases/data/lk_treasury_press_releases/2020s/2026/2026-04-22-0d397a)
 - 2026-02-05 | `2f8e89` | The Government has scheduled an Investor Call in Relation to Macro-Linked and Governance-Linked Bonds on 11th of February 2026 | [data](https://github.com/nuuuwan/lk_treasury/tree/data_lk_treasury_press_releases/data/lk_treasury_press_releases/2020s/2026/2026-02-05-2f8e89)
 - 2026-01-07 | `21a49b` | Entering into an Agreement on Debt Restructuring between Federal Republic of Germany and the Government of the Democratic Socialist Republic of Sri Lanka in relation to the External Debt Restructuring Process | [data](https://github.com/nuuuwan/lk_treasury/tree/data_lk_treasury_press_releases/data/lk_treasury_press_releases/2020s/2026/2026-01-07-21a49b)
 - 2025-12-19 | `be3fd8` | Financial Aid from the Asian Development Bank (ADB) for the Implementation of Transforming Irrigation Systems for Improved Food Security Project (Grant Financing) | [data](https://github.com/nuuuwan/lk_treasury/tree/data_lk_treasury_press_releases/data/lk_treasury_press_releases/2020s/2025/2025-12-19-be3fd8)
@@ -59,7 +60,6 @@ A Sri Lanka Treasury press release shares key govt financial updates—on budget
 - 2025-04-04 | `31ebef` | Sri Lanka Ready to Engage with the United States in Strengthening Trade Relations | [data](https://github.com/nuuuwan/lk_treasury/tree/data_lk_treasury_press_releases/data/lk_treasury_press_releases/2020s/2025/2025-04-04-31ebef)
 - 2025-02-10 | `ca2f29` | රාජ්‍ය ආයෝජන අධීක්ෂණ හා ඇගයීම් කමිටුව පිහිටුවීම | [data](https://github.com/nuuuwan/lk_treasury/tree/data_lk_treasury_press_releases/data/lk_treasury_press_releases/2020s/2025/2025-02-10-ca2f29)
 - 2025-01-31 | `b0d84d` | Removal of Temporary Suspention on Importation of Motor Vehicles Stage III | [data](https://github.com/nuuuwan/lk_treasury/tree/data_lk_treasury_press_releases/data/lk_treasury_press_releases/2020s/2025/2025-01-31-b0d84d)
-- 2025-01-31 | `31a097` | Issuance of New Regulation and Order by the Minister of Finance, Planning and Economic Development | [data](https://github.com/nuuuwan/lk_treasury/tree/data_lk_treasury_press_releases/data/lk_treasury_press_releases/2020s/2025/2025-01-31-31a097)
 
 ---
 
