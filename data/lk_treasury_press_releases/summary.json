@@ -2,15 +2,15 @@
   "doc_class_label": "lk_treasury_press_releases",
   "doc_class_emoji": "\ud83d\udcb0",
   "doc_class_description": "A Sri Lanka Treasury press release shares key govt financial updates\u2014on budgets, debt, or policy\u2014vital for transparency, guiding investors, citizens, and markets on the nation\u2019s economic direction.",
-  "time_updated": "2026-04-22 22:22:26",
-  "n_docs": 143,
-  "n_docs_with_pdfs": 143,
-  "n_docs_with_text": 143,
+  "time_updated": "2026-04-22 23:22:59",
+  "n_docs": 144,
+  "n_docs_with_pdfs": 144,
+  "n_docs_with_text": 144,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2015-09-08",
   "date_str_max": "2026-04-22",
-  "dataset_size": 151462379,
+  "dataset_size": 151713326,
   "url_source_list": [
     "https://www.treasury.gov.lk"
   ],
@@ -22,12 +22,12 @@
   ],
   "latest_doc_d": {
     "doc_type": "lk_treasury_press_releases",
-    "doc_id": "2026-04-22-0d397a",
-    "num": "0d397a",
+    "doc_id": "2026-04-22-b32423",
+    "num": "b32423",
     "date_str": "2026-04-22",
-    "description": "Cyber hackers have gained unauthorized access to the computer system of a department within the institution",
+    "description": "\u0dc3\u0dba\u0dd2\u0db6\u0dbb\u0dca \u0dc4\u0dd0\u0d9a\u0dbb\u0dca\u0d9a\u0dbb\u0dd4\u0dc0\u0db1\u0dca \u0dc0\u0dd2\u0dc3\u0dd2\u0db1\u0dca \u0d86\u0dba\u0dad\u0db1\u0dba \u0dad\u0dd4\u0dbd \u0d87\u0dad\u0dd2 \u0daf\u0dd9\u0db4\u0dcf\u0dbb\u0dca\u0dad\u0db8\u0dda\u0db1\u0dca\u0dad\u0dd4\u0dc0\u0d9a \u0db4\u0dbb\u0dd2\u0d9c\u0dab\u0d9a \u0db4\u0daf\u0dca\u0db0\u0dad\u0dd2\u0dba\u0d9a\u0da7 \u0d87\u0dad\u0dd4\u0dbd\u0dd4\u0dc0\u0dd3\u0db8",
     "url_metadata": "https://www.treasury.gov.lk//web/press-releases/section/2026",
-    "lang": "en",
-    "url_pdf": "https://www.treasury.gov.lk//api/file/445fb251-cdbf-4802-8c4e-e25e671e602b"
+    "lang": "si",
+    "url_pdf": "https://www.treasury.gov.lk//api/file/ef15747a-a05b-4c75-8643-9067e2a555a0"
   }
 }
