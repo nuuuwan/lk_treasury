@@ -1,12 +1,12 @@
 # 💰#SriLanka 🇱🇰 Treasury Press Releases `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--06--05_11:34:05-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--06--05_13:27:12-green)
 
 [https://github.com/nuuuwan/lk_treasury/tree/data_lk_treasury_press_releases/data/lk_treasury_press_releases](https://github.com/nuuuwan/lk_treasury/tree/data_lk_treasury_press_releases/data/lk_treasury_press_releases)
 
 A Sri Lanka Treasury press release shares key govt financial updates—on budgets, debt, or policy—vital for transparency, guiding investors, citizens, and markets on the nation’s economic direction.
 
-- [**146** documents](https://github.com/nuuuwan/lk_treasury/tree/data_lk_treasury_press_releases/data/lk_treasury_press_releases) (**152.0 MB**), from **2015-09-08** to **2026-04-29**, scraped from [https://www.treasury.gov.lk](https://www.treasury.gov.lk)
+- [**149** documents](https://github.com/nuuuwan/lk_treasury/tree/data_lk_treasury_press_releases/data/lk_treasury_press_releases) (**152.7 MB**), from **2015-09-08** to **2026-06-05**, scraped from [https://www.treasury.gov.lk](https://www.treasury.gov.lk)
 
 - In **JSON**, **PDF** (99%), **TXT** (99%) & **🤗 Hugging Face** (99%)
 
@@ -19,13 +19,13 @@ A Sri Lanka Treasury press release shares key govt financial updates—on budget
 ```json
 {
     "doc_type": "lk_treasury_press_releases",
-    "doc_id": "2026-04-29-e11a02",
-    "num": "e11a02",
-    "date_str": "2026-04-29",
-    "description": "PRESS RELEASE- SINHALA",
+    "doc_id": "2026-06-05-cd5821",
+    "num": "cd5821",
+    "date_str": "2026-06-05",
+    "description": "\u0db4\u0dc5\u0db8\u0dd4 \u0d85\u0daf\u0dd2\u0dba\u0dbb \u0dc3\u0dcf\u0dbb\u0dca\u0dae\u0d9a\u0dc0 \u0d9a\u0dca\u200d\u0dbb\u0dd2\u0dba\u0dcf\u0dad\u0dca\u0db8\u0d9a \u0d9a\u0dbb\u0db1 \u0dbd\u0daf \u0da9\u0dd2\u0da2\u0dd2\u0da7\u0dbd\u0dca \u0d89\u0db1\u0dca\u0dc0\u0ddc\u0dba\u0dd2\u0dc3\u0dca \u0d9a\u0dca\u200d\u0dbb\u0db8\u0dc0\u0dda\u0daf\u0dba \u0daf\u0dd9\u0dc0\u0db1 \u0d85\u0daf\u0dd2\u0dba\u0dbb \u0d9a\u0dca\u200d\u0dbb\u0dd2\u0dba\u0dcf\u0dad\u0dca\u0db8\u0d9a \u0d9a\u0dd2\u0dbb\u0dd3\u0db8 \u0d86\u0dbb\u0db8\u0dca\u0db7 \u0d9a\u0dbb\u0db1 \u0dbd\u0daf\u0dd2.",
     "url_metadata": "https://www.treasury.gov.lk//web/press-releases/section/2026",
-    "lang": "en",
-    "url_pdf": "https://www.treasury.gov.lk//api/file/"
+    "lang": "si",
+    "url_pdf": "https://www.treasury.gov.lk//api/file/f4c0c106-5e99-4146-aff4-d5d24e44ed8c"
 }
 ```
 
@@ -40,6 +40,9 @@ A Sri Lanka Treasury press release shares key govt financial updates—on budget
 
 ## 🆕 20 Latest documents
 
+- 2026-06-05 | `cd5821` | පළමු අදියර සාර්ථකව ක්‍රියාත්මක කරන ලද ඩිජිටල් ඉන්වොයිස් ක්‍රමවේදය දෙවන අදියර ක්‍රියාත්මක කිරීම ආරම්භ කරන ලදි. | [data](https://github.com/nuuuwan/lk_treasury/tree/data_lk_treasury_press_releases/data/lk_treasury_press_releases/2020s/2026/2026-06-05-cd5821)
+- 2026-06-05 | `100882` | Digital invoicing Phase I Successfully rolled out & Phase II implementation commenced. | [data](https://github.com/nuuuwan/lk_treasury/tree/data_lk_treasury_press_releases/data/lk_treasury_press_releases/2020s/2026/2026-06-05-100882)
+- 2026-06-05 | `0494c5` | Sri Lanka Successfully Co-hosted Asian Regional Public Debt Management Forum 2026, Bringing Together Over 120 Delegates from 30 Countries | [data](https://github.com/nuuuwan/lk_treasury/tree/data_lk_treasury_press_releases/data/lk_treasury_press_releases/2020s/2026/2026-06-05-0494c5)
 - 2026-04-29 | `e11a02` | PRESS RELEASE- SINHALA | [data](https://github.com/nuuuwan/lk_treasury/tree/data_lk_treasury_press_releases/data/lk_treasury_press_releases/2020s/2026/2026-04-29-e11a02)
 - 2026-04-29 | `69d578` | PRESS RELEASE- TAMIL | [data](https://github.com/nuuuwan/lk_treasury/tree/data_lk_treasury_press_releases/data/lk_treasury_press_releases/2020s/2026/2026-04-29-69d578)
 - 2026-04-22 | `b32423` | සයිබර් හැකර්කරුවන් විසින් ආයතනය තුල ඇති දෙපාර්තමේන්තුවක පරිගණක පද්ධතියකට ඇතුලුවීම | [data](https://github.com/nuuuwan/lk_treasury/tree/data_lk_treasury_press_releases/data/lk_treasury_press_releases/2020s/2026/2026-04-22-b32423)
@@ -57,9 +60,6 @@ A Sri Lanka Treasury press release shares key govt financial updates—on budget
 - 2025-07-14 | `8adac6` | Signing of Bilateral Amendatory Loan Agreements between GoSL and the Saudi Fund for Development (SFD) under the External Debt Restructuring Process of Sri Lanka. | [data](https://github.com/nuuuwan/lk_treasury/tree/data_lk_treasury_press_releases/data/lk_treasury_press_releases/2020s/2025/2025-07-14-8adac6)
 - 2025-07-11 | `b42c9e` | Sri Lanka Recorded One of the Most Significant Score Improvements in Investor Relations Practices in 2025 | [data](https://github.com/nuuuwan/lk_treasury/tree/data_lk_treasury_press_releases/data/lk_treasury_press_releases/2020s/2025/2025-07-11-b42c9e)
 - 2025-07-01 | `30540c` | Signing of Agreement on Debt Restructuring between Hungary and the Government of Sri Lanka in relation to External Debt Restructuring Process | [data](https://github.com/nuuuwan/lk_treasury/tree/data_lk_treasury_press_releases/data/lk_treasury_press_releases/2020s/2025/2025-07-01-30540c)
-- 2025-07-01 | `243920` | හංගේරියාව සහ ශ්‍රී ලංකා රජය අතර විදේශ ණය ප්‍රතිව්‍යුහගත කිරීමේ ක්‍රියාවලියට අදාළ ණය ප්‍රතිව්‍යුහගත කිරීම පිළිබඳ ගිවිසුම අත්සන් කිරීම | [data](https://github.com/nuuuwan/lk_treasury/tree/data_lk_treasury_press_releases/data/lk_treasury_press_releases/2020s/2025/2025-07-01-243920)
-- 2025-05-15 | `13de25` | Signing of Bilateral Amendatory Agreements between GoSL and the Export - Import Bank (EXIM) of India pertaining to the Line of Credits and Buyer’s Credit Loan Agreements under the External Debt Restructuring Process of Sri Lanka. | [data](https://github.com/nuuuwan/lk_treasury/tree/data_lk_treasury_press_releases/data/lk_treasury_press_releases/2020s/2025/2025-05-15-13de25)
-- 2025-04-08 | `bac3d7` | Government Strengthens Efforts to Revitalize Small and Medium Enterprises (SMEs) | [data](https://github.com/nuuuwan/lk_treasury/tree/data_lk_treasury_press_releases/data/lk_treasury_press_releases/2020s/2025/2025-04-08-bac3d7)
 
 ---
 
