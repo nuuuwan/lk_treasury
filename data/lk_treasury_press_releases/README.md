@@ -1,16 +1,16 @@
 # 💰#SriLanka 🇱🇰 Treasury Press Releases `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--06--10_13:28:02-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--06--10_17:17:55-green)
 
 [https://github.com/nuuuwan/lk_treasury/tree/data_lk_treasury_press_releases/data/lk_treasury_press_releases](https://github.com/nuuuwan/lk_treasury/tree/data_lk_treasury_press_releases/data/lk_treasury_press_releases)
 
 A Sri Lanka Treasury press release shares key govt financial updates—on budgets, debt, or policy—vital for transparency, guiding investors, citizens, and markets on the nation’s economic direction.
 
-- [**150** documents](https://github.com/nuuuwan/lk_treasury/tree/data_lk_treasury_press_releases/data/lk_treasury_press_releases) (**153.6 MB**), from **2015-09-08** to **2026-06-05**, scraped from [https://www.treasury.gov.lk](https://www.treasury.gov.lk)
+- [**151** documents](https://github.com/nuuuwan/lk_treasury/tree/data_lk_treasury_press_releases/data/lk_treasury_press_releases) (**154.0 MB**), from **2015-09-08** to **2026-06-05**, scraped from [https://www.treasury.gov.lk](https://www.treasury.gov.lk)
 
 - In **JSON**, **PDF** (99%), **TXT** (99%) & **🤗 Hugging Face** (99%)
 
-- In **සිංහල** & **English**
+- In **සිංහල**, **தமிழ்** & **English**
 
 - 🎓 Cite as **[arXiv:2510.04124](https://arxiv.org/abs/2510.04124) [cs.CL]**
 
@@ -42,6 +42,7 @@ A Sri Lanka Treasury press release shares key govt financial updates—on budget
 
 - 2026-06-05 | `cd5821` | පළමු අදියර සාර්ථකව ක්‍රියාත්මක කරන ලද ඩිජිටල් ඉන්වොයිස් ක්‍රමවේදය දෙවන අදියර ක්‍රියාත්මක කිරීම ආරම්භ කරන ලදි. | [data](https://github.com/nuuuwan/lk_treasury/tree/data_lk_treasury_press_releases/data/lk_treasury_press_releases/2020s/2026/2026-06-05-cd5821)
 - 2026-06-05 | `22da05` | Digital invoicing Phase I Successfully rolled out & Phase II implementation commenced | Tamil | [data](https://github.com/nuuuwan/lk_treasury/tree/data_lk_treasury_press_releases/data/lk_treasury_press_releases/2020s/2026/2026-06-05-22da05)
+- 2026-06-05 | `14ac3a` | டிஜிட்டல் விலைப்பட்டியல் (Digital Invoicing) முறைமையின் முதலாம் கட்டம் வெற்றிகரமாக நிறைவு; இரண்டாம் கட்ட பணிகள் ஆரம்பம் | [data](https://github.com/nuuuwan/lk_treasury/tree/data_lk_treasury_press_releases/data/lk_treasury_press_releases/2020s/2026/2026-06-05-14ac3a)
 - 2026-06-05 | `100882` | Digital invoicing Phase I Successfully rolled out & Phase II implementation commenced. | [data](https://github.com/nuuuwan/lk_treasury/tree/data_lk_treasury_press_releases/data/lk_treasury_press_releases/2020s/2026/2026-06-05-100882)
 - 2026-06-05 | `0494c5` | Sri Lanka Successfully Co-hosted Asian Regional Public Debt Management Forum 2026, Bringing Together Over 120 Delegates from 30 Countries | [data](https://github.com/nuuuwan/lk_treasury/tree/data_lk_treasury_press_releases/data/lk_treasury_press_releases/2020s/2026/2026-06-05-0494c5)
 - 2026-04-29 | `e11a02` | PRESS RELEASE- SINHALA | [data](https://github.com/nuuuwan/lk_treasury/tree/data_lk_treasury_press_releases/data/lk_treasury_press_releases/2020s/2026/2026-04-29-e11a02)
@@ -59,7 +60,6 @@ A Sri Lanka Treasury press release shares key govt financial updates—on budget
 - 2025-10-07 | `29192b` | AIIB Provides USD52 Million to Strengthen Sri Lanka’s Power Transmission and Support Renewable Energy Growth | [data](https://github.com/nuuuwan/lk_treasury/tree/data_lk_treasury_press_releases/data/lk_treasury_press_releases/2020s/2025/2025-10-07-29192b)
 - 2025-07-30 | `d1aea6` | Investor Call in Relation to Macro-Linked and Governance-Linked Bonds | [data](https://github.com/nuuuwan/lk_treasury/tree/data_lk_treasury_press_releases/data/lk_treasury_press_releases/2020s/2025/2025-07-30-d1aea6)
 - 2025-07-14 | `8adac6` | Signing of Bilateral Amendatory Loan Agreements between GoSL and the Saudi Fund for Development (SFD) under the External Debt Restructuring Process of Sri Lanka. | [data](https://github.com/nuuuwan/lk_treasury/tree/data_lk_treasury_press_releases/data/lk_treasury_press_releases/2020s/2025/2025-07-14-8adac6)
-- 2025-07-11 | `b42c9e` | Sri Lanka Recorded One of the Most Significant Score Improvements in Investor Relations Practices in 2025 | [data](https://github.com/nuuuwan/lk_treasury/tree/data_lk_treasury_press_releases/data/lk_treasury_press_releases/2020s/2025/2025-07-11-b42c9e)
 
 ---
 
