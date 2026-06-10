@@ -1481,6 +1481,16 @@
   },
   {
     "doc_type": "lk_treasury_press_releases",
+    "doc_id": "2026-06-05-22da05",
+    "num": "22da05",
+    "date_str": "2026-06-05",
+    "description": "Digital invoicing Phase I Successfully rolled out & Phase II implementation commenced | Tamil",
+    "url_metadata": "https://www.treasury.gov.lk//web/press-releases/section/2026",
+    "lang": "en",
+    "url_pdf": "https://www.treasury.gov.lk//api/file/a59c9f1f-4043-4ea2-8b08-d1991f351017"
+  },
+  {
+    "doc_type": "lk_treasury_press_releases",
     "doc_id": "2026-06-05-cd5821",
     "num": "cd5821",
     "date_str": "2026-06-05",
