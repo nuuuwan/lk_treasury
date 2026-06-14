@@ -1,6 +1,6 @@
 # 💰#SriLanka 🇱🇰 Treasury Press Releases `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--06--14_21:36:18-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--06--14_22:31:32-green)
 
 [https://github.com/nuuuwan/lk_treasury/tree/data_lk_treasury_press_releases/data/lk_treasury_press_releases](https://github.com/nuuuwan/lk_treasury/tree/data_lk_treasury_press_releases/data/lk_treasury_press_releases)
 
