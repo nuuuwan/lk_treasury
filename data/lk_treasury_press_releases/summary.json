@@ -2,15 +2,15 @@
   "doc_class_label": "lk_treasury_press_releases",
   "doc_class_emoji": "\ud83d\udcb0",
   "doc_class_description": "A Sri Lanka Treasury press release shares key govt financial updates\u2014on budgets, debt, or policy\u2014vital for transparency, guiding investors, citizens, and markets on the nation\u2019s economic direction.",
-  "time_updated": "2026-06-23 17:07:31",
-  "n_docs": 152,
-  "n_docs_with_pdfs": 151,
-  "n_docs_with_text": 151,
+  "time_updated": "2026-06-23 19:01:01",
+  "n_docs": 154,
+  "n_docs_with_pdfs": 153,
+  "n_docs_with_text": 153,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2015-09-08",
-  "date_str_max": "2026-06-19",
-  "dataset_size": 156110136,
+  "date_str_max": "2026-06-23",
+  "dataset_size": 156445531,
   "url_source_list": [
     "https://www.treasury.gov.lk"
   ],
@@ -18,17 +18,17 @@
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_treasury/refs/heads/data_lk_treasury_press_releases/data/lk_treasury_press_releases/docs_by_year_and_lang.png",
   "langs": [
     "si",
-    "en",
-    "ta"
+    "ta",
+    "en"
   ],
   "latest_doc_d": {
     "doc_type": "lk_treasury_press_releases",
-    "doc_id": "2026-06-19-863a79",
-    "num": "863a79",
-    "date_str": "2026-06-19",
-    "description": "Government Led Reforms Drive New Investment of USD 600 Million through 71 Strategic Businesses into Colombo Port City in the first half of 2026",
+    "doc_id": "2026-06-23-6aa9e6",
+    "num": "6aa9e6",
+    "date_str": "2026-06-23",
+    "description": "Sri Lanka achieved 95.8% Implementation of the WTO Trade Facilitation Agreement which is higher than the Global Average and Advances Its \u2018TFA Plus\u2019 Agenda.",
     "url_metadata": "https://www.treasury.gov.lk//web/press-releases/section/2026",
     "lang": "en",
-    "url_pdf": "https://www.treasury.gov.lk//api/file/f6d252a4-203f-44a1-be99-09238ade7c0e"
+    "url_pdf": "https://www.treasury.gov.lk//api/file/0a611275-6958-4a4d-a8a9-644697af7135"
   }
 }
