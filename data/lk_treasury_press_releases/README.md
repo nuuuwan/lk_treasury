@@ -1,12 +1,12 @@
 # 💰#SriLanka 🇱🇰 Treasury Press Releases `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--24_20:41:19-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--24_21:34:24-green)
 
 [https://github.com/nuuuwan/lk_treasury/tree/data_lk_treasury_press_releases/data/lk_treasury_press_releases](https://github.com/nuuuwan/lk_treasury/tree/data_lk_treasury_press_releases/data/lk_treasury_press_releases)
 
 A Sri Lanka Treasury press release shares key govt financial updates—on budgets, debt, or policy—vital for transparency, guiding investors, citizens, and markets on the nation’s economic direction.
 
-- [**154** documents](https://github.com/nuuuwan/lk_treasury/tree/data_lk_treasury_press_releases/data/lk_treasury_press_releases) (**156.8 MB**), from **2015-09-08** to **2026-06-23**, scraped from [https://www.treasury.gov.lk](https://www.treasury.gov.lk)
+- [**155** documents](https://github.com/nuuuwan/lk_treasury/tree/data_lk_treasury_press_releases/data/lk_treasury_press_releases) (**157.1 MB**), from **2015-09-08** to **2026-07-24**, scraped from [https://www.treasury.gov.lk](https://www.treasury.gov.lk)
 
 - In **JSON**, **PDF** (99%), **TXT** (99%) & **🤗 Hugging Face** (99%)
 
@@ -19,13 +19,13 @@ A Sri Lanka Treasury press release shares key govt financial updates—on budget
 ```json
 {
     "doc_type": "lk_treasury_press_releases",
-    "doc_id": "2026-06-23-6aa9e6",
-    "num": "6aa9e6",
-    "date_str": "2026-06-23",
-    "description": "Sri Lanka achieved 95.8% Implementation of the WTO Trade Facilitation Agreement which is higher than the Global Average and Advances Its \u2018TFA Plus\u2019 Agenda.",
+    "doc_id": "2026-07-24-fa9014",
+    "num": "fa9014",
+    "date_str": "2026-07-24",
+    "description": "Sri Lanka becomes the fourth among the highest score improvers in the IIF Survey",
     "url_metadata": "https://www.treasury.gov.lk//web/press-releases/section/2026",
     "lang": "en",
-    "url_pdf": "https://www.treasury.gov.lk//api/file/0a611275-6958-4a4d-a8a9-644697af7135"
+    "url_pdf": "https://www.treasury.gov.lk//api/file/8e48c0df-73e8-4ed6-9445-66c073cfaf5c"
 }
 ```
 
@@ -40,6 +40,7 @@ A Sri Lanka Treasury press release shares key govt financial updates—on budget
 
 ## 🆕 20 Latest documents
 
+- 2026-07-24 | `fa9014` | Sri Lanka becomes the fourth among the highest score improvers in the IIF Survey | [data](https://github.com/nuuuwan/lk_treasury/tree/data_lk_treasury_press_releases/data/lk_treasury_press_releases/2020s/2026/2026-07-24-fa9014)
 - 2026-06-23 | `6aa9e6` | Sri Lanka achieved 95.8% Implementation of the WTO Trade Facilitation Agreement which is higher than the Global Average and Advances Its ‘TFA Plus’ Agenda. | [data](https://github.com/nuuuwan/lk_treasury/tree/data_lk_treasury_press_releases/data/lk_treasury_press_releases/2020s/2026/2026-06-23-6aa9e6)
 - 2026-06-23 | `4ffc1a` | Recently Released Sri Lanka Customs Time Release Study (TRS) 2025 Report shows Improved Trade Facilitation. | [data](https://github.com/nuuuwan/lk_treasury/tree/data_lk_treasury_press_releases/data/lk_treasury_press_releases/2020s/2026/2026-06-23-4ffc1a)
 - 2026-06-19 | `863a79` | Government Led Reforms Drive New Investment of USD 600 Million through 71 Strategic Businesses into Colombo Port City in the first half of 2026 | [data](https://github.com/nuuuwan/lk_treasury/tree/data_lk_treasury_press_releases/data/lk_treasury_press_releases/2020s/2026/2026-06-19-863a79)
@@ -59,7 +60,6 @@ A Sri Lanka Treasury press release shares key govt financial updates—on budget
 - 2025-11-29 | `4e2cb9` | Instructions for Disaster Relief Contributions for the People Affected by the Emergency Disaster Situation | [data](https://github.com/nuuuwan/lk_treasury/tree/data_lk_treasury_press_releases/data/lk_treasury_press_releases/2020s/2025/2025-11-29-4e2cb9)
 - 2025-11-17 | `65c0a0` | Financial Assistance of USD 300 Million from the Asian Development Bank (ADB) | [data](https://github.com/nuuuwan/lk_treasury/tree/data_lk_treasury_press_releases/data/lk_treasury_press_releases/2020s/2025/2025-11-17-65c0a0)
 - 2025-10-31 | `9ef6a3` | Financial Assistance from the Asian Development Bank (ADB) for the Second Integrated Road Investment Program (i Road 2)- Tranche 5 | [data](https://github.com/nuuuwan/lk_treasury/tree/data_lk_treasury_press_releases/data/lk_treasury_press_releases/2020s/2025/2025-10-31-9ef6a3)
-- 2025-10-17 | `aa8eb2` | Financial Assistance from the Asian Development Bank for the Strengthening Integrated Health Care and Governance for Universal Health Coverage Program | [data](https://github.com/nuuuwan/lk_treasury/tree/data_lk_treasury_press_releases/data/lk_treasury_press_releases/2020s/2025/2025-10-17-aa8eb2)
 
 ---
 
