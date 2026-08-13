@@ -1558,5 +1558,15 @@
     "url_metadata": "https://www.treasury.gov.lk//web/press-releases/section/2026",
     "lang": "en",
     "url_pdf": "https://www.treasury.gov.lk//api/file/27b11a3a-badc-41bf-9418-c9946be560f2"
+  },
+  {
+    "doc_type": "lk_treasury_press_releases",
+    "doc_id": "2026-08-12-fafba2",
+    "num": "fafba2",
+    "date_str": "2026-08-12",
+    "description": "The Divestiture of Canwill Holdings (Pvt) Limited",
+    "url_metadata": "https://www.treasury.gov.lk//web/press-releases/section/2026",
+    "lang": "en",
+    "url_pdf": "https://www.treasury.gov.lk//api/file/ddadba30-6d76-4755-b408-06a2436b6dad"
   }
 ]
