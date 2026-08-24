@@ -1,12 +1,12 @@
 # 💰#SriLanka 🇱🇰 Treasury Press Releases `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--08--24_10:20:40-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--08--24_11:18:57-green)
 
 [https://github.com/nuuuwan/lk_treasury/tree/data_lk_treasury_press_releases/data/lk_treasury_press_releases](https://github.com/nuuuwan/lk_treasury/tree/data_lk_treasury_press_releases/data/lk_treasury_press_releases)
 
 A Sri Lanka Treasury press release shares key govt financial updates—on budgets, debt, or policy—vital for transparency, guiding investors, citizens, and markets on the nation’s economic direction.
 
-- [**161** documents](https://github.com/nuuuwan/lk_treasury/tree/data_lk_treasury_press_releases/data/lk_treasury_press_releases) (**165.8 MB**), from **2015-09-08** to **2026-08-18**, scraped from [https://www.treasury.gov.lk](https://www.treasury.gov.lk)
+- [**164** documents](https://github.com/nuuuwan/lk_treasury/tree/data_lk_treasury_press_releases/data/lk_treasury_press_releases) (**166.4 MB**), from **2015-09-08** to **2026-08-24**, scraped from [https://www.treasury.gov.lk](https://www.treasury.gov.lk)
 
 - In **JSON**, **PDF** (99%), **TXT** (99%) & **🤗 Hugging Face** (99%)
 
@@ -19,13 +19,13 @@ A Sri Lanka Treasury press release shares key govt financial updates—on budget
 ```json
 {
     "doc_type": "lk_treasury_press_releases",
-    "doc_id": "2026-08-18-cb2e2e",
-    "num": "cb2e2e",
-    "date_str": "2026-08-18",
-    "description": "Financial Assistance from the Asian Development Bank for the Post-Cyclone Ditwah Reconstruction and Livelihoods Support Project",
+    "doc_id": "2026-08-24-3a77e7",
+    "num": "3a77e7",
+    "date_str": "2026-08-24",
+    "description": "Accelerated Programme for the Purchase of Paddy during Yala Season - 2026",
     "url_metadata": "https://www.treasury.gov.lk//web/press-releases/section/2026",
     "lang": "en",
-    "url_pdf": "https://www.treasury.gov.lk//api/file/892ab882-5ece-4a4f-95a3-ad14a02c46fd"
+    "url_pdf": "https://www.treasury.gov.lk//api/file/8dce0d11-46fb-425b-aeb6-5c53bd2a37b9"
 }
 ```
 
@@ -40,6 +40,9 @@ A Sri Lanka Treasury press release shares key govt financial updates—on budget
 
 ## 🆕 20 Latest documents
 
+- 2026-08-24 | `3a77e7` | Accelerated Programme for the Purchase of Paddy during Yala Season - 2026 | [data](https://github.com/nuuuwan/lk_treasury/tree/data_lk_treasury_press_releases/data/lk_treasury_press_releases/2020s/2026/2026-08-24-3a77e7)
+- 2026-08-24 | `299ada` | 2026 යල කන්නයේ වී අස්වනු මිලදී ගැනීමේ කඩිනම් වැඩපිළිවෙල | [data](https://github.com/nuuuwan/lk_treasury/tree/data_lk_treasury_press_releases/data/lk_treasury_press_releases/2020s/2026/2026-08-24-299ada)
+- 2026-08-21 | `57234c` | Establishment of an Independent Appeal Committee for Procurement Sanctions | [data](https://github.com/nuuuwan/lk_treasury/tree/data_lk_treasury_press_releases/data/lk_treasury_press_releases/2020s/2026/2026-08-21-57234c)
 - 2026-08-18 | `cb2e2e` | Financial Assistance from the Asian Development Bank for the Post-Cyclone Ditwah Reconstruction and Livelihoods Support Project | [data](https://github.com/nuuuwan/lk_treasury/tree/data_lk_treasury_press_releases/data/lk_treasury_press_releases/2020s/2026/2026-08-18-cb2e2e)
 - 2026-08-18 | `c76735` | ්‍ශ්චාත් දිට්වා සුළිකුණාටුප්‍රතිසංස්කරණ හා ජීවවනෝප්‍ාය සහය වයාප්‍ෘතිය සඳහා ආසියානුසංවර්ධ්‍න බැංකුවවන්මූලය සහය | [data](https://github.com/nuuuwan/lk_treasury/tree/data_lk_treasury_press_releases/data/lk_treasury_press_releases/2020s/2026/2026-08-18-c76735)
 - 2026-08-18 | `97a659` | වෙළඳ, ආයෝජන සහ කර්මාන්ත සංවර්ධන වැඩසටහන - උපවැඩසටහන 1 ක්‍රියාත්මක කිරීම සඳහා ආසියානු සංවර්ධන බැංකුවෙන් (ADB) ඇමරිකානු එක්සත් ජනපද ඩොලර් මිලියන 200ක මූල්‍ය සහාය ලබා ගැනීම | [data](https://github.com/nuuuwan/lk_treasury/tree/data_lk_treasury_press_releases/data/lk_treasury_press_releases/2020s/2026/2026-08-18-97a659)
@@ -57,9 +60,6 @@ A Sri Lanka Treasury press release shares key govt financial updates—on budget
 - 2026-06-05 | `0494c5` | Sri Lanka Successfully Co-hosted Asian Regional Public Debt Management Forum 2026, Bringing Together Over 120 Delegates from 30 Countries | [data](https://github.com/nuuuwan/lk_treasury/tree/data_lk_treasury_press_releases/data/lk_treasury_press_releases/2020s/2026/2026-06-05-0494c5)
 - 2026-04-29 | `e11a02` | PRESS RELEASE- SINHALA | [data](https://github.com/nuuuwan/lk_treasury/tree/data_lk_treasury_press_releases/data/lk_treasury_press_releases/2020s/2026/2026-04-29-e11a02)
 - 2026-04-29 | `69d578` | PRESS RELEASE- TAMIL | [data](https://github.com/nuuuwan/lk_treasury/tree/data_lk_treasury_press_releases/data/lk_treasury_press_releases/2020s/2026/2026-04-29-69d578)
-- 2026-04-22 | `b32423` | සයිබර් හැකර්කරුවන් විසින් ආයතනය තුල ඇති දෙපාර්තමේන්තුවක පරිගණක පද්ධතියකට ඇතුලුවීම | [data](https://github.com/nuuuwan/lk_treasury/tree/data_lk_treasury_press_releases/data/lk_treasury_press_releases/2020s/2026/2026-04-22-b32423)
-- 2026-04-22 | `0d397a` | Cyber hackers have gained unauthorized access to the computer system of a department within the institution | [data](https://github.com/nuuuwan/lk_treasury/tree/data_lk_treasury_press_releases/data/lk_treasury_press_releases/2020s/2026/2026-04-22-0d397a)
-- 2026-02-05 | `2f8e89` | The Government has scheduled an Investor Call in Relation to Macro-Linked and Governance-Linked Bonds on 11th of February 2026 | [data](https://github.com/nuuuwan/lk_treasury/tree/data_lk_treasury_press_releases/data/lk_treasury_press_releases/2020s/2026/2026-02-05-2f8e89)
 
 ---
 

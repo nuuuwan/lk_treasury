@@ -2,33 +2,33 @@
   "doc_class_label": "lk_treasury_press_releases",
   "doc_class_emoji": "\ud83d\udcb0",
   "doc_class_description": "A Sri Lanka Treasury press release shares key govt financial updates\u2014on budgets, debt, or policy\u2014vital for transparency, guiding investors, citizens, and markets on the nation\u2019s economic direction.",
-  "time_updated": "2026-08-24 10:20:39",
-  "n_docs": 161,
-  "n_docs_with_pdfs": 160,
-  "n_docs_with_text": 160,
+  "time_updated": "2026-08-24 11:18:56",
+  "n_docs": 164,
+  "n_docs_with_pdfs": 163,
+  "n_docs_with_text": 163,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2015-09-08",
-  "date_str_max": "2026-08-18",
-  "dataset_size": 165801132,
+  "date_str_max": "2026-08-24",
+  "dataset_size": 166401855,
   "url_source_list": [
     "https://www.treasury.gov.lk"
   ],
   "url_data": "https://github.com/nuuuwan/lk_treasury/tree/data_lk_treasury_press_releases/data/lk_treasury_press_releases",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_treasury/refs/heads/data_lk_treasury_press_releases/data/lk_treasury_press_releases/docs_by_year_and_lang.png",
   "langs": [
-    "si",
     "ta",
-    "en"
+    "en",
+    "si"
   ],
   "latest_doc_d": {
     "doc_type": "lk_treasury_press_releases",
-    "doc_id": "2026-08-18-cb2e2e",
-    "num": "cb2e2e",
-    "date_str": "2026-08-18",
-    "description": "Financial Assistance from the Asian Development Bank for the Post-Cyclone Ditwah Reconstruction and Livelihoods Support Project",
+    "doc_id": "2026-08-24-3a77e7",
+    "num": "3a77e7",
+    "date_str": "2026-08-24",
+    "description": "Accelerated Programme for the Purchase of Paddy during Yala Season - 2026",
     "url_metadata": "https://www.treasury.gov.lk//web/press-releases/section/2026",
     "lang": "en",
-    "url_pdf": "https://www.treasury.gov.lk//api/file/892ab882-5ece-4a4f-95a3-ad14a02c46fd"
+    "url_pdf": "https://www.treasury.gov.lk//api/file/8dce0d11-46fb-425b-aeb6-5c53bd2a37b9"
   }
 }
