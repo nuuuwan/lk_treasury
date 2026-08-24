@@ -2,15 +2,15 @@
   "doc_class_label": "lk_treasury_press_releases",
   "doc_class_emoji": "\ud83d\udcb0",
   "doc_class_description": "A Sri Lanka Treasury press release shares key govt financial updates\u2014on budgets, debt, or policy\u2014vital for transparency, guiding investors, citizens, and markets on the nation\u2019s economic direction.",
-  "time_updated": "2026-08-24 17:14:24",
-  "n_docs": 164,
-  "n_docs_with_pdfs": 163,
-  "n_docs_with_text": 163,
+  "time_updated": "2026-08-24 18:20:39",
+  "n_docs": 165,
+  "n_docs_with_pdfs": 164,
+  "n_docs_with_text": 164,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2015-09-08",
   "date_str_max": "2026-08-24",
-  "dataset_size": 167003230,
+  "dataset_size": 167140500,
   "url_source_list": [
     "https://www.treasury.gov.lk"
   ],
@@ -18,17 +18,17 @@
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_treasury/refs/heads/data_lk_treasury_press_releases/data/lk_treasury_press_releases/docs_by_year_and_lang.png",
   "langs": [
     "si",
-    "ta",
-    "en"
+    "en",
+    "ta"
   ],
   "latest_doc_d": {
     "doc_type": "lk_treasury_press_releases",
-    "doc_id": "2026-08-24-3a77e7",
-    "num": "3a77e7",
+    "doc_id": "2026-08-24-fa0282",
+    "num": "fa0282",
     "date_str": "2026-08-24",
-    "description": "Accelerated Programme for the Purchase of Paddy during Yala Season - 2026",
+    "description": "Hotel Developers (Lanka) Ltd Records First Profit in Seven Years A Milestone for State Enterprise Reform.",
     "url_metadata": "https://www.treasury.gov.lk//web/press-releases/section/2026",
     "lang": "en",
-    "url_pdf": "https://www.treasury.gov.lk//api/file/8dce0d11-46fb-425b-aeb6-5c53bd2a37b9"
+    "url_pdf": "https://www.treasury.gov.lk//api/file/28021afa-8b06-400f-8e41-a2ae1b3da0a4"
   }
 }

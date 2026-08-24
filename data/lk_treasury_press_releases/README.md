@@ -1,12 +1,12 @@
 # 💰#SriLanka 🇱🇰 Treasury Press Releases `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--08--24_17:14:25-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--08--24_18:20:39-green)
 
 [https://github.com/nuuuwan/lk_treasury/tree/data_lk_treasury_press_releases/data/lk_treasury_press_releases](https://github.com/nuuuwan/lk_treasury/tree/data_lk_treasury_press_releases/data/lk_treasury_press_releases)
 
 A Sri Lanka Treasury press release shares key govt financial updates—on budgets, debt, or policy—vital for transparency, guiding investors, citizens, and markets on the nation’s economic direction.
 
-- [**164** documents](https://github.com/nuuuwan/lk_treasury/tree/data_lk_treasury_press_releases/data/lk_treasury_press_releases) (**167.0 MB**), from **2015-09-08** to **2026-08-24**, scraped from [https://www.treasury.gov.lk](https://www.treasury.gov.lk)
+- [**165** documents](https://github.com/nuuuwan/lk_treasury/tree/data_lk_treasury_press_releases/data/lk_treasury_press_releases) (**167.1 MB**), from **2015-09-08** to **2026-08-24**, scraped from [https://www.treasury.gov.lk](https://www.treasury.gov.lk)
 
 - In **JSON**, **PDF** (99%), **TXT** (99%) & **🤗 Hugging Face** (99%)
 
@@ -19,13 +19,13 @@ A Sri Lanka Treasury press release shares key govt financial updates—on budget
 ```json
 {
     "doc_type": "lk_treasury_press_releases",
-    "doc_id": "2026-08-24-3a77e7",
-    "num": "3a77e7",
+    "doc_id": "2026-08-24-fa0282",
+    "num": "fa0282",
     "date_str": "2026-08-24",
-    "description": "Accelerated Programme for the Purchase of Paddy during Yala Season - 2026",
+    "description": "Hotel Developers (Lanka) Ltd Records First Profit in Seven Years A Milestone for State Enterprise Reform.",
     "url_metadata": "https://www.treasury.gov.lk//web/press-releases/section/2026",
     "lang": "en",
-    "url_pdf": "https://www.treasury.gov.lk//api/file/8dce0d11-46fb-425b-aeb6-5c53bd2a37b9"
+    "url_pdf": "https://www.treasury.gov.lk//api/file/28021afa-8b06-400f-8e41-a2ae1b3da0a4"
 }
 ```
 
@@ -40,6 +40,7 @@ A Sri Lanka Treasury press release shares key govt financial updates—on budget
 
 ## 🆕 20 Latest documents
 
+- 2026-08-24 | `fa0282` | Hotel Developers (Lanka) Ltd Records First Profit in Seven Years A Milestone for State Enterprise Reform. | [data](https://github.com/nuuuwan/lk_treasury/tree/data_lk_treasury_press_releases/data/lk_treasury_press_releases/2020s/2026/2026-08-24-fa0282)
 - 2026-08-24 | `3a77e7` | Accelerated Programme for the Purchase of Paddy during Yala Season - 2026 | [data](https://github.com/nuuuwan/lk_treasury/tree/data_lk_treasury_press_releases/data/lk_treasury_press_releases/2020s/2026/2026-08-24-3a77e7)
 - 2026-08-24 | `299ada` | 2026 යල කන්නයේ වී අස්වනු මිලදී ගැනීමේ කඩිනම් වැඩපිළිවෙල | [data](https://github.com/nuuuwan/lk_treasury/tree/data_lk_treasury_press_releases/data/lk_treasury_press_releases/2020s/2026/2026-08-24-299ada)
 - 2026-08-21 | `57234c` | Establishment of an Independent Appeal Committee for Procurement Sanctions | [data](https://github.com/nuuuwan/lk_treasury/tree/data_lk_treasury_press_releases/data/lk_treasury_press_releases/2020s/2026/2026-08-21-57234c)
@@ -59,7 +60,6 @@ A Sri Lanka Treasury press release shares key govt financial updates—on budget
 - 2026-06-05 | `100882` | Digital invoicing Phase I Successfully rolled out & Phase II implementation commenced. | [data](https://github.com/nuuuwan/lk_treasury/tree/data_lk_treasury_press_releases/data/lk_treasury_press_releases/2020s/2026/2026-06-05-100882)
 - 2026-06-05 | `0494c5` | Sri Lanka Successfully Co-hosted Asian Regional Public Debt Management Forum 2026, Bringing Together Over 120 Delegates from 30 Countries | [data](https://github.com/nuuuwan/lk_treasury/tree/data_lk_treasury_press_releases/data/lk_treasury_press_releases/2020s/2026/2026-06-05-0494c5)
 - 2026-04-29 | `e11a02` | PRESS RELEASE- SINHALA | [data](https://github.com/nuuuwan/lk_treasury/tree/data_lk_treasury_press_releases/data/lk_treasury_press_releases/2020s/2026/2026-04-29-e11a02)
-- 2026-04-29 | `69d578` | PRESS RELEASE- TAMIL | [data](https://github.com/nuuuwan/lk_treasury/tree/data_lk_treasury_press_releases/data/lk_treasury_press_releases/2020s/2026/2026-04-29-69d578)
 
 ---
 
