@@ -1648,5 +1648,15 @@
     "url_metadata": "https://www.treasury.gov.lk//web/press-releases/section/2026",
     "lang": "en",
     "url_pdf": "https://www.treasury.gov.lk//api/file/28021afa-8b06-400f-8e41-a2ae1b3da0a4"
+  },
+  {
+    "doc_type": "lk_treasury_press_releases",
+    "doc_id": "2026-08-31-306d1a",
+    "num": "306d1a",
+    "date_str": "2026-08-31",
+    "description": "Electronic Government Procurement (e-GP) in Sri Lanka",
+    "url_metadata": "https://www.treasury.gov.lk//web/press-releases/section/2026",
+    "lang": "en",
+    "url_pdf": "https://www.treasury.gov.lk//api/file/eff53474-6bd1-42b7-bc38-091b9fa12ea5"
   }
 ]
