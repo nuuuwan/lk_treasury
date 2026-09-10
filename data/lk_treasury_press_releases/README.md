@@ -1,12 +1,12 @@
 # 💰#SriLanka 🇱🇰 Treasury Press Releases `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--09--10_14:15:16-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--09--10_15:13:18-green)
 
 [https://github.com/nuuuwan/lk_treasury/tree/data_lk_treasury_press_releases/data/lk_treasury_press_releases](https://github.com/nuuuwan/lk_treasury/tree/data_lk_treasury_press_releases/data/lk_treasury_press_releases)
 
 A Sri Lanka Treasury press release shares key govt financial updates—on budgets, debt, or policy—vital for transparency, guiding investors, citizens, and markets on the nation’s economic direction.
 
-- [**167** documents](https://github.com/nuuuwan/lk_treasury/tree/data_lk_treasury_press_releases/data/lk_treasury_press_releases) (**168.7 MB**), from **2015-09-08** to **2026-09-10**, scraped from [https://www.treasury.gov.lk](https://www.treasury.gov.lk)
+- [**168** documents](https://github.com/nuuuwan/lk_treasury/tree/data_lk_treasury_press_releases/data/lk_treasury_press_releases) (**171.2 MB**), from **2015-09-08** to **2026-09-10**, scraped from [https://www.treasury.gov.lk](https://www.treasury.gov.lk)
 
 - In **JSON**, **PDF** (99%), **TXT** (99%) & **🤗 Hugging Face** (99%)
 
@@ -41,6 +41,7 @@ A Sri Lanka Treasury press release shares key govt financial updates—on budget
 ## 🆕 20 Latest documents
 
 - 2026-09-10 | `0eaec3` | Sri Lanka Strengthens Institutional Capacity in Sovereign Risk and Debt Sustainability Analysis | [data](https://github.com/nuuuwan/lk_treasury/tree/data_lk_treasury_press_releases/data/lk_treasury_press_releases/2020s/2026/2026-09-10-0eaec3)
+- 2026-09-09 | `677047` | දේශීය ආදායම් දෙපාර්තමේන්තුව විසින් අනුකූලතා අවශ්‍යතා සපුරන ලද VAT ආපසු ගෙවීම් ඉල්ලීම්වලින් 99.98% ක්, දින 29 ක සාමාන්‍යයක් තුළ සාර්ථකව නිකුත් කරයි | [data](https://github.com/nuuuwan/lk_treasury/tree/data_lk_treasury_press_releases/data/lk_treasury_press_releases/2020s/2026/2026-09-09-677047)
 - 2026-08-31 | `306d1a` | Electronic Government Procurement (e-GP) in Sri Lanka | [data](https://github.com/nuuuwan/lk_treasury/tree/data_lk_treasury_press_releases/data/lk_treasury_press_releases/2020s/2026/2026-08-31-306d1a)
 - 2026-08-24 | `fa0282` | Hotel Developers (Lanka) Ltd Records First Profit in Seven Years A Milestone for State Enterprise Reform. | [data](https://github.com/nuuuwan/lk_treasury/tree/data_lk_treasury_press_releases/data/lk_treasury_press_releases/2020s/2026/2026-08-24-fa0282)
 - 2026-08-24 | `3a77e7` | Accelerated Programme for the Purchase of Paddy during Yala Season - 2026 | [data](https://github.com/nuuuwan/lk_treasury/tree/data_lk_treasury_press_releases/data/lk_treasury_press_releases/2020s/2026/2026-08-24-3a77e7)
@@ -59,7 +60,6 @@ A Sri Lanka Treasury press release shares key govt financial updates—on budget
 - 2026-06-05 | `cd5821` | පළමු අදියර සාර්ථකව ක්‍රියාත්මක කරන ලද ඩිජිටල් ඉන්වොයිස් ක්‍රමවේදය දෙවන අදියර ක්‍රියාත්මක කිරීම ආරම්භ කරන ලදි. | [data](https://github.com/nuuuwan/lk_treasury/tree/data_lk_treasury_press_releases/data/lk_treasury_press_releases/2020s/2026/2026-06-05-cd5821)
 - 2026-06-05 | `22da05` | Digital invoicing Phase I Successfully rolled out & Phase II implementation commenced | Tamil | [data](https://github.com/nuuuwan/lk_treasury/tree/data_lk_treasury_press_releases/data/lk_treasury_press_releases/2020s/2026/2026-06-05-22da05)
 - 2026-06-05 | `14ac3a` | டிஜிட்டல் விலைப்பட்டியல் (Digital Invoicing) முறைமையின் முதலாம் கட்டம் வெற்றிகரமாக நிறைவு; இரண்டாம் கட்ட பணிகள் ஆரம்பம் | [data](https://github.com/nuuuwan/lk_treasury/tree/data_lk_treasury_press_releases/data/lk_treasury_press_releases/2020s/2026/2026-06-05-14ac3a)
-- 2026-06-05 | `100882` | Digital invoicing Phase I Successfully rolled out & Phase II implementation commenced. | [data](https://github.com/nuuuwan/lk_treasury/tree/data_lk_treasury_press_releases/data/lk_treasury_press_releases/2020s/2026/2026-06-05-100882)
 
 ---
 
