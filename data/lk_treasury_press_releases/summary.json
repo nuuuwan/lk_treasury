@@ -2,33 +2,33 @@
   "doc_class_label": "lk_treasury_press_releases",
   "doc_class_emoji": "\ud83d\udcb0",
   "doc_class_description": "A Sri Lanka Treasury press release shares key govt financial updates\u2014on budgets, debt, or policy\u2014vital for transparency, guiding investors, citizens, and markets on the nation\u2019s economic direction.",
-  "time_updated": "2026-09-10 13:12:03",
-  "n_docs": 166,
-  "n_docs_with_pdfs": 165,
-  "n_docs_with_text": 165,
+  "time_updated": "2026-09-10 14:15:15",
+  "n_docs": 167,
+  "n_docs_with_pdfs": 166,
+  "n_docs_with_text": 166,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2015-09-08",
-  "date_str_max": "2026-08-31",
-  "dataset_size": 168111188,
+  "date_str_max": "2026-09-10",
+  "dataset_size": 168744063,
   "url_source_list": [
     "https://www.treasury.gov.lk"
   ],
   "url_data": "https://github.com/nuuuwan/lk_treasury/tree/data_lk_treasury_press_releases/data/lk_treasury_press_releases",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_treasury/refs/heads/data_lk_treasury_press_releases/data/lk_treasury_press_releases/docs_by_year_and_lang.png",
   "langs": [
+    "si",
     "en",
-    "ta",
-    "si"
+    "ta"
   ],
   "latest_doc_d": {
     "doc_type": "lk_treasury_press_releases",
-    "doc_id": "2026-08-31-306d1a",
-    "num": "306d1a",
-    "date_str": "2026-08-31",
-    "description": "Electronic Government Procurement (e-GP) in Sri Lanka",
+    "doc_id": "2026-09-10-0eaec3",
+    "num": "0eaec3",
+    "date_str": "2026-09-10",
+    "description": "Sri Lanka Strengthens Institutional Capacity in Sovereign Risk and Debt Sustainability Analysis",
     "url_metadata": "https://www.treasury.gov.lk//web/press-releases/section/2026",
     "lang": "en",
-    "url_pdf": "https://www.treasury.gov.lk//api/file/eff53474-6bd1-42b7-bc38-091b9fa12ea5"
+    "url_pdf": "https://www.treasury.gov.lk//api/file/a97afb73-4f4a-43e2-aac4-92d9ade8dce9"
   }
 }
