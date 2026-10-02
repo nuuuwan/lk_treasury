@@ -1,12 +1,12 @@
 # 💰#SriLanka 🇱🇰 Treasury Press Releases `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--10--02_13:23:21-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--10--02_14:17:42-green)
 
 [https://github.com/nuuuwan/lk_treasury/tree/data_lk_treasury_press_releases/data/lk_treasury_press_releases](https://github.com/nuuuwan/lk_treasury/tree/data_lk_treasury_press_releases/data/lk_treasury_press_releases)
 
 A Sri Lanka Treasury press release shares key govt financial updates—on budgets, debt, or policy—vital for transparency, guiding investors, citizens, and markets on the nation’s economic direction.
 
-- [**169** documents](https://github.com/nuuuwan/lk_treasury/tree/data_lk_treasury_press_releases/data/lk_treasury_press_releases) (**173.3 MB**), from **2015-09-08** to **2026-09-22**, scraped from [https://www.treasury.gov.lk](https://www.treasury.gov.lk)
+- [**170** documents](https://github.com/nuuuwan/lk_treasury/tree/data_lk_treasury_press_releases/data/lk_treasury_press_releases) (**174.0 MB**), from **2015-09-08** to **2026-10-02**, scraped from [https://www.treasury.gov.lk](https://www.treasury.gov.lk)
 
 - In **JSON**, **PDF** (99%), **TXT** (99%) & **🤗 Hugging Face** (99%)
 
@@ -19,13 +19,13 @@ A Sri Lanka Treasury press release shares key govt financial updates—on budget
 ```json
 {
     "doc_type": "lk_treasury_press_releases",
-    "doc_id": "2026-09-22-2a26a1",
-    "num": "2a26a1",
-    "date_str": "2026-09-22",
-    "description": "Fitch Ratings Upgrades Sri Lanka to \u2018B-\u2018with a Stable Outlook",
+    "doc_id": "2026-10-02-9deefc",
+    "num": "9deefc",
+    "date_str": "2026-10-02",
+    "description": "IRD implemented the facilitation of Web API integration with RAMIS by publishing the guidelines for VAT return filing.",
     "url_metadata": "https://www.treasury.gov.lk//web/press-releases/section/2026",
     "lang": "en",
-    "url_pdf": "https://www.treasury.gov.lk//api/file/c031863c-71b3-402a-b20f-fb54f56c0784"
+    "url_pdf": "https://www.treasury.gov.lk//api/file/5f21f9ec-c18d-42ad-9880-766a2f66e354"
 }
 ```
 
@@ -40,6 +40,7 @@ A Sri Lanka Treasury press release shares key govt financial updates—on budget
 
 ## 🆕 20 Latest documents
 
+- 2026-10-02 | `9deefc` | IRD implemented the facilitation of Web API integration with RAMIS by publishing the guidelines for VAT return filing. | [data](https://github.com/nuuuwan/lk_treasury/tree/data_lk_treasury_press_releases/data/lk_treasury_press_releases/2020s/2026/2026-10-02-9deefc)
 - 2026-09-22 | `2a26a1` | Fitch Ratings Upgrades Sri Lanka to ‘B-‘with a Stable Outlook | [data](https://github.com/nuuuwan/lk_treasury/tree/data_lk_treasury_press_releases/data/lk_treasury_press_releases/2020s/2026/2026-09-22-2a26a1)
 - 2026-09-10 | `0eaec3` | Sri Lanka Strengthens Institutional Capacity in Sovereign Risk and Debt Sustainability Analysis | [data](https://github.com/nuuuwan/lk_treasury/tree/data_lk_treasury_press_releases/data/lk_treasury_press_releases/2020s/2026/2026-09-10-0eaec3)
 - 2026-09-09 | `677047` | දේශීය ආදායම් දෙපාර්තමේන්තුව විසින් අනුකූලතා අවශ්‍යතා සපුරන ලද VAT ආපසු ගෙවීම් ඉල්ලීම්වලින් 99.98% ක්, දින 29 ක සාමාන්‍යයක් තුළ සාර්ථකව නිකුත් කරයි | [data](https://github.com/nuuuwan/lk_treasury/tree/data_lk_treasury_press_releases/data/lk_treasury_press_releases/2020s/2026/2026-09-09-677047)
@@ -59,7 +60,6 @@ A Sri Lanka Treasury press release shares key govt financial updates—on budget
 - 2026-06-23 | `4ffc1a` | Recently Released Sri Lanka Customs Time Release Study (TRS) 2025 Report shows Improved Trade Facilitation. | [data](https://github.com/nuuuwan/lk_treasury/tree/data_lk_treasury_press_releases/data/lk_treasury_press_releases/2020s/2026/2026-06-23-4ffc1a)
 - 2026-06-19 | `863a79` | Government Led Reforms Drive New Investment of USD 600 Million through 71 Strategic Businesses into Colombo Port City in the first half of 2026 | [data](https://github.com/nuuuwan/lk_treasury/tree/data_lk_treasury_press_releases/data/lk_treasury_press_releases/2020s/2026/2026-06-19-863a79)
 - 2026-06-05 | `cd5821` | පළමු අදියර සාර්ථකව ක්‍රියාත්මක කරන ලද ඩිජිටල් ඉන්වොයිස් ක්‍රමවේදය දෙවන අදියර ක්‍රියාත්මක කිරීම ආරම්භ කරන ලදි. | [data](https://github.com/nuuuwan/lk_treasury/tree/data_lk_treasury_press_releases/data/lk_treasury_press_releases/2020s/2026/2026-06-05-cd5821)
-- 2026-06-05 | `22da05` | Digital invoicing Phase I Successfully rolled out & Phase II implementation commenced | Tamil | [data](https://github.com/nuuuwan/lk_treasury/tree/data_lk_treasury_press_releases/data/lk_treasury_press_releases/2020s/2026/2026-06-05-22da05)
 
 ---
 
