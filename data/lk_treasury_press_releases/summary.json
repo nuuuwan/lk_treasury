@@ -2,15 +2,15 @@
   "doc_class_label": "lk_treasury_press_releases",
   "doc_class_emoji": "\ud83d\udcb0",
   "doc_class_description": "A Sri Lanka Treasury press release shares key govt financial updates\u2014on budgets, debt, or policy\u2014vital for transparency, guiding investors, citizens, and markets on the nation\u2019s economic direction.",
-  "time_updated": "2026-10-05 14:29:27",
-  "n_docs": 170,
-  "n_docs_with_pdfs": 169,
-  "n_docs_with_text": 169,
+  "time_updated": "2026-10-05 15:24:19",
+  "n_docs": 171,
+  "n_docs_with_pdfs": 170,
+  "n_docs_with_text": 170,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2015-09-08",
-  "date_str_max": "2026-10-02",
-  "dataset_size": 174706751,
+  "date_str_max": "2026-10-05",
+  "dataset_size": 174819966,
   "url_source_list": [
     "https://www.treasury.gov.lk"
   ],
@@ -23,12 +23,12 @@
   ],
   "latest_doc_d": {
     "doc_type": "lk_treasury_press_releases",
-    "doc_id": "2026-10-02-9deefc",
-    "num": "9deefc",
-    "date_str": "2026-10-02",
-    "description": "IRD implemented the facilitation of Web API integration with RAMIS by publishing the guidelines for VAT return filing.",
+    "doc_id": "2026-10-05-0261d5",
+    "num": "0261d5",
+    "date_str": "2026-10-05",
+    "description": "Continuation of the Programme for Provision of Relief to People Affected by the War Situation in the Middle East -English",
     "url_metadata": "https://www.treasury.gov.lk//web/press-releases/section/2026",
     "lang": "en",
-    "url_pdf": "https://www.treasury.gov.lk//api/file/5f21f9ec-c18d-42ad-9880-766a2f66e354"
+    "url_pdf": "https://www.treasury.gov.lk//api/file/5d753a98-5e47-4110-944d-ceac5a7caaac"
   }
 }
