@@ -1,12 +1,12 @@
 # 💰#SriLanka 🇱🇰 Treasury Press Releases `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--10--05_15:24:20-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--10--05_16:16:58-green)
 
 [https://github.com/nuuuwan/lk_treasury/tree/data_lk_treasury_press_releases/data/lk_treasury_press_releases](https://github.com/nuuuwan/lk_treasury/tree/data_lk_treasury_press_releases/data/lk_treasury_press_releases)
 
 A Sri Lanka Treasury press release shares key govt financial updates—on budgets, debt, or policy—vital for transparency, guiding investors, citizens, and markets on the nation’s economic direction.
 
-- [**171** documents](https://github.com/nuuuwan/lk_treasury/tree/data_lk_treasury_press_releases/data/lk_treasury_press_releases) (**174.8 MB**), from **2015-09-08** to **2026-10-05**, scraped from [https://www.treasury.gov.lk](https://www.treasury.gov.lk)
+- [**173** documents](https://github.com/nuuuwan/lk_treasury/tree/data_lk_treasury_press_releases/data/lk_treasury_press_releases) (**175.2 MB**), from **2015-09-08** to **2026-10-05**, scraped from [https://www.treasury.gov.lk](https://www.treasury.gov.lk)
 
 - In **JSON**, **PDF** (99%), **TXT** (99%) & **🤗 Hugging Face** (99%)
 
@@ -19,13 +19,13 @@ A Sri Lanka Treasury press release shares key govt financial updates—on budget
 ```json
 {
     "doc_type": "lk_treasury_press_releases",
-    "doc_id": "2026-10-05-0261d5",
-    "num": "0261d5",
+    "doc_id": "2026-10-05-c79636",
+    "num": "c79636",
     "date_str": "2026-10-05",
-    "description": "Continuation of the Programme for Provision of Relief to People Affected by the War Situation in the Middle East -English",
+    "description": "\u0db8\u0dd0\u0daf \u0db4\u0dd9\u0dbb\u0daf\u0dd2\u0d9c \u0dba\u0dd4\u0daf\u0dca\u0db0\u0db8\u0dba \u0dc0\u0dcf\u0dad\u0dcf\u0dc0\u0dbb\u0dab\u0dba \u0dc4\u0dda\u0dad\u0dd4\u0dc0\u0dd9\u0db1\u0dca \u0db6\u0dbd\u0db4\u0dd1\u0db8\u0da7 \u0dbd\u0d9a\u0dca \u0dc0\u0dd6 \u0da2\u0db1\u0dad\u0dcf\u0dc0\u0da7 \u0dad\u0dc0\u0daf\u0dd4\u0dbb\u0da7\u0dad\u0dca \u0dc3\u0dc4\u0db1 \u0dc3\u0dd0\u0dbd\u0dc3\u0dd3\u0db8\u0dda \u0dc0\u0dd0\u0da9\u0dc3\u0da7\u0dc4\u0db1",
     "url_metadata": "https://www.treasury.gov.lk//web/press-releases/section/2026",
-    "lang": "en",
-    "url_pdf": "https://www.treasury.gov.lk//api/file/5d753a98-5e47-4110-944d-ceac5a7caaac"
+    "lang": "si",
+    "url_pdf": "https://www.treasury.gov.lk//api/file/45f4f90c-f5e2-413b-828e-25fb1d183808"
 }
 ```
 
@@ -40,6 +40,8 @@ A Sri Lanka Treasury press release shares key govt financial updates—on budget
 
 ## 🆕 20 Latest documents
 
+- 2026-10-05 | `c79636` | මැද පෙරදිග යුද්ධමය වාතාවරණය හේතුවෙන් බලපෑමට ලක් වූ ජනතාවට තවදුරටත් සහන සැලසීමේ වැඩසටහන | [data](https://github.com/nuuuwan/lk_treasury/tree/data_lk_treasury_press_releases/data/lk_treasury_press_releases/2020s/2026/2026-10-05-c79636)
+- 2026-10-05 | `4aa2b6` | மத்திய கிழக்கில் நிலவும் போர்ச் சூழலால் பாதிக்கப்பட்ட மக்களுக்கு நிவாரணம் வழங்கும் நிகழ்ச்சித்திட்டத்தைத் தொடர்ந்து முன்னெடுத்தல் | [data](https://github.com/nuuuwan/lk_treasury/tree/data_lk_treasury_press_releases/data/lk_treasury_press_releases/2020s/2026/2026-10-05-4aa2b6)
 - 2026-10-05 | `0261d5` | Continuation of the Programme for Provision of Relief to People Affected by the War Situation in the Middle East -English | [data](https://github.com/nuuuwan/lk_treasury/tree/data_lk_treasury_press_releases/data/lk_treasury_press_releases/2020s/2026/2026-10-05-0261d5)
 - 2026-10-02 | `9deefc` | IRD implemented the facilitation of Web API integration with RAMIS by publishing the guidelines for VAT return filing. | [data](https://github.com/nuuuwan/lk_treasury/tree/data_lk_treasury_press_releases/data/lk_treasury_press_releases/2020s/2026/2026-10-02-9deefc)
 - 2026-09-22 | `2a26a1` | Fitch Ratings Upgrades Sri Lanka to ‘B-‘with a Stable Outlook | [data](https://github.com/nuuuwan/lk_treasury/tree/data_lk_treasury_press_releases/data/lk_treasury_press_releases/2020s/2026/2026-09-22-2a26a1)
@@ -58,8 +60,6 @@ A Sri Lanka Treasury press release shares key govt financial updates—on budget
 - 2026-08-05 | `7ec7cb` | Assistance from Government of India for rehabilitation and reconstruction efforts in Sri Lanka in the aftermath of Cyclone Ditwah | [data](https://github.com/nuuuwan/lk_treasury/tree/data_lk_treasury_press_releases/data/lk_treasury_press_releases/2020s/2026/2026-08-05-7ec7cb)
 - 2026-07-24 | `fa9014` | Sri Lanka becomes the fourth among the highest score improvers in the IIF Survey | [data](https://github.com/nuuuwan/lk_treasury/tree/data_lk_treasury_press_releases/data/lk_treasury_press_releases/2020s/2026/2026-07-24-fa9014)
 - 2026-06-23 | `6aa9e6` | Sri Lanka achieved 95.8% Implementation of the WTO Trade Facilitation Agreement which is higher than the Global Average and Advances Its ‘TFA Plus’ Agenda. | [data](https://github.com/nuuuwan/lk_treasury/tree/data_lk_treasury_press_releases/data/lk_treasury_press_releases/2020s/2026/2026-06-23-6aa9e6)
-- 2026-06-23 | `4ffc1a` | Recently Released Sri Lanka Customs Time Release Study (TRS) 2025 Report shows Improved Trade Facilitation. | [data](https://github.com/nuuuwan/lk_treasury/tree/data_lk_treasury_press_releases/data/lk_treasury_press_releases/2020s/2026/2026-06-23-4ffc1a)
-- 2026-06-19 | `863a79` | Government Led Reforms Drive New Investment of USD 600 Million through 71 Strategic Businesses into Colombo Port City in the first half of 2026 | [data](https://github.com/nuuuwan/lk_treasury/tree/data_lk_treasury_press_releases/data/lk_treasury_press_releases/2020s/2026/2026-06-19-863a79)
 
 ---
 

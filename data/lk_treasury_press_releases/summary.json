@@ -2,33 +2,33 @@
   "doc_class_label": "lk_treasury_press_releases",
   "doc_class_emoji": "\ud83d\udcb0",
   "doc_class_description": "A Sri Lanka Treasury press release shares key govt financial updates\u2014on budgets, debt, or policy\u2014vital for transparency, guiding investors, citizens, and markets on the nation\u2019s economic direction.",
-  "time_updated": "2026-10-05 15:24:19",
-  "n_docs": 171,
-  "n_docs_with_pdfs": 170,
-  "n_docs_with_text": 170,
+  "time_updated": "2026-10-05 16:16:57",
+  "n_docs": 173,
+  "n_docs_with_pdfs": 172,
+  "n_docs_with_text": 172,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2015-09-08",
   "date_str_max": "2026-10-05",
-  "dataset_size": 174819966,
+  "dataset_size": 175173807,
   "url_source_list": [
     "https://www.treasury.gov.lk"
   ],
   "url_data": "https://github.com/nuuuwan/lk_treasury/tree/data_lk_treasury_press_releases/data/lk_treasury_press_releases",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_treasury/refs/heads/data_lk_treasury_press_releases/data/lk_treasury_press_releases/docs_by_year_and_lang.png",
   "langs": [
-    "si",
+    "ta",
     "en",
-    "ta"
+    "si"
   ],
   "latest_doc_d": {
     "doc_type": "lk_treasury_press_releases",
-    "doc_id": "2026-10-05-0261d5",
-    "num": "0261d5",
+    "doc_id": "2026-10-05-c79636",
+    "num": "c79636",
     "date_str": "2026-10-05",
-    "description": "Continuation of the Programme for Provision of Relief to People Affected by the War Situation in the Middle East -English",
+    "description": "\u0db8\u0dd0\u0daf \u0db4\u0dd9\u0dbb\u0daf\u0dd2\u0d9c \u0dba\u0dd4\u0daf\u0dca\u0db0\u0db8\u0dba \u0dc0\u0dcf\u0dad\u0dcf\u0dc0\u0dbb\u0dab\u0dba \u0dc4\u0dda\u0dad\u0dd4\u0dc0\u0dd9\u0db1\u0dca \u0db6\u0dbd\u0db4\u0dd1\u0db8\u0da7 \u0dbd\u0d9a\u0dca \u0dc0\u0dd6 \u0da2\u0db1\u0dad\u0dcf\u0dc0\u0da7 \u0dad\u0dc0\u0daf\u0dd4\u0dbb\u0da7\u0dad\u0dca \u0dc3\u0dc4\u0db1 \u0dc3\u0dd0\u0dbd\u0dc3\u0dd3\u0db8\u0dda \u0dc0\u0dd0\u0da9\u0dc3\u0da7\u0dc4\u0db1",
     "url_metadata": "https://www.treasury.gov.lk//web/press-releases/section/2026",
-    "lang": "en",
-    "url_pdf": "https://www.treasury.gov.lk//api/file/5d753a98-5e47-4110-944d-ceac5a7caaac"
+    "lang": "si",
+    "url_pdf": "https://www.treasury.gov.lk//api/file/45f4f90c-f5e2-413b-828e-25fb1d183808"
   }
 }
