@@ -1,0 +1,655 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      5.4,
+      808.57,
+      119.03,
+      825.02
+    ],
+    "text": "+94 11-2484604",
+    "fonts": [
+      "IskoolaPota"
+    ],
+    "sizes": [
+      6.960000038146973,
+      7.559999942779541
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      216.89,
+      808.86,
+      286.64,
+      826.09
+    ],
+    "text": "info@pdmo.gov.lk",
+    "fonts": [
+      "Baamini Plain",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      6.960000038146973,
+      8.039999961853027,
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      342.07,
+      808.57,
+      552.79,
+      826.82
+    ],
+    "text": "https://www.treasury.gov.lk/web/public-debt-management-office",
+    "fonts": [
+      "IskoolaPota"
+    ],
+    "sizes": [
+      8.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      144.98,
+      233.81,
+      456.72,
+      247.85
+    ],
+    "text": "TREASURY BILL AUCTION HELD ON 07 OCTOBER 2026",
+    "fonts": [
+      "Calibri-Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      101.18,
+      288.77,
+      144.12,
+      299.81
+    ],
+    "text": "Maturity",
+    "fonts": [
+      "Calibri-Bold"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      106.94,
+      302.09,
+      138.24,
+      313.13
+    ],
+    "text": "(Days)",
+    "fonts": [
+      "Calibri-Bold"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      179.42,
+      288.77,
+      219.11,
+      299.81
+    ],
+    "text": "Amount",
+    "fonts": [
+      "Calibri-Bold"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      180.38,
+      302.09,
+      225.68,
+      313.13
+    ],
+    "text": "Offered",
+    "fonts": [
+      "Calibri-Bold"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      253.85,
+      288.77,
+      297.63,
+      313.13
+    ],
+    "text": "Bids Received",
+    "fonts": [
+      "Calibri-Bold"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      333.55,
+      288.77,
+      388.97,
+      313.13
+    ],
+    "text": "Amount Accepted (a)",
+    "fonts": [
+      "Calibri-Bold"
+    ],
+    "sizes": [
+      6.960000038146973,
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      406.03,
+      274.49,
+      541.55,
+      285.53
+    ],
+    "text": "Weighted Average Yield Rate",
+    "fonts": [
+      "Calibri-Bold"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      416.47,
+      287.93,
+      501.44,
+      327.89
+    ],
+    "text": "(WAYR) (%) Current Auction",
+    "fonts": [
+      "Calibri-Bold"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      87.5,
+      303.41,
+      530.96,
+      354.77
+    ],
+    "text": "Last Auction 91 LKA09127A083 35,000 78,385 44,112 9.26 9.25",
+    "fonts": [
+      "Calibri",
+      "Calibri-Bold"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      87.38,
+      357.17,
+      523.04,
+      381.65
+    ],
+    "text": "182 LKA18227D092 25,000 58,433 29,508 9.44 9.41",
+    "fonts": [
+      "Calibri",
+      "Calibri-Bold"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      88.94,
+      383.93,
+      523.04,
+      408.41
+    ],
+    "text": "364 LKA36427J085 20,000 27,902 6,380 9.95 9.95",
+    "fonts": [
+      "Calibri",
+      "Calibri-Bold"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      109.7,
+      410.81,
+      561.92,
+      435.29
+    ],
+    "text": "Total 80,000 164,720 80,000 All amounts are in Rs. Millions.",
+    "fonts": [
+      "Calibri-Bold",
+      "Calibri-Italic"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      72.02,
+      447.77,
+      284.06,
+      489.67
+    ],
+    "text": "(a) The date of settlement is 09 October 2026.",
+    "fonts": [
+      "Calibri-Bold"
+    ],
+    "sizes": [
+      9.960000038146973,
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      72.02,
+      502.03,
+      554.77,
+      528.55
+    ],
+    "text": "The Phase II subscription for ISINs LKA18227D092 and LKA36427J085 is now open until 3.00 pm of business day prior to settlement date (i.e., 08.10.2026) at the WAYRs determined for the said ISINs at the auction.",
+    "fonts": [
+      "Calibri-Bold"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      72.02,
+      540.91,
+      554.84,
+      567.43
+    ],
+    "text": "In the Phase II, the aggregate eligible amount for subscription from the said maturities would be the difference of amount accepted vs amount plus 10% of the aggregate amount offered at the auction.",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      72.02,
+      579.79,
+      554.77,
+      621.79
+    ],
+    "text": "In the event of oversubscription, allocation will be made based on aggregate successful participation by participants at the auction. The requirement to maintain a minimum amount for a bid at primary auction remains applicable for the Phase II.",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      89.66,
+      168.31,
+      236.79,
+      182.06
+    ],
+    "text": "Public Debt Management Office",
+    "fonts": [
+      "ArialNarrow",
+      "ArialNarrow-Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      91.82,
+      192.85,
+      164.06,
+      205.5
+    ],
+    "text": "07 October 2026",
+    "fonts": [
+      "ArialNarrow"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      170.06,
+      23.53,
+      381.9,
+      44.35
+    ],
+    "text": "\u0dbb\u0dcf\u0da2\u0dca\u200d\u0dba \u0dab\u0dba \u0d9a\u0dc5\u0db8\u0db1\u0dcf\u0d9a\u0dbb\u0dab \u0d9a\u0dcf\u0dbb\u0dca",
+    "fonts": [
+      "IskoolaPota-Bold"
+    ],
+    "sizes": [
+      18.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      382.15,
+      23.53,
+      423.86,
+      44.35
+    ],
+    "text": "\u0dba\u0dcf\u0dbd\u0dba",
+    "fonts": [
+      "IskoolaPota-Bold"
+    ],
+    "sizes": [
+      18.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      160.22,
+      46.54,
+      433.63,
+      66.95
+    ],
+    "text": "\u0baa \u0bca\u0ba4\u0bc1 \u0b95\u0b9f\u0ba9\u0bcd \u0bae\u0bc7\u0bb2\u0bca\u0ba3\u0bcd\u0bae\u0bc7 \u0b85\u0bb2\u0bc1\u0bb5\u0bb2\u0b95\u0bae\u0bcd",
+    "fonts": [
+      "ArialUnicodeMS"
+    ],
+    "sizes": [
+      15.960000038146973
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      192.86,
+      70.72,
+      405.23,
+      88.41
+    ],
+    "text": "Public Debt Management Office",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      15.984000205993652
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      399.07,
+      112.21,
+      555.88,
+      127.6
+    ],
+    "text": "Ministry of Finance, Planning and Economic Development The Secretariat (3rd Floor), Colombo 00100, Sri Lanka",
+    "fonts": [
+      "IskoolaPota",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      6.480000019073486
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      214.85,
+      111.46,
+      377.18,
+      117.94
+    ],
+    "text": "epjp> jpl;lkply; kw;Wk; nghUshjhu mgptpUj;jp mikr;R",
+    "fonts": [
+      "Baamini Plain"
+    ],
+    "sizes": [
+      6.480000019073486
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      214.85,
+      118.73,
+      244.72,
+      127.02
+    ],
+    "text": "\u0baa\u0bc6\u0baf\u0bb2\u0b95\u0bae\u0bcd",
+    "fonts": [
+      "ArialUnicodeMS"
+    ],
+    "sizes": [
+      6.480000019073486
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      244.73,
+      119.18,
+      246.67,
+      129.94
+    ],
+    "text": "(",
+    "fonts": [
+      "Latha"
+    ],
+    "sizes": [
+      6.480000019073486
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      246.65,
+      120.94,
+      253.2,
+      127.42
+    ],
+    "text": "3",
+    "fonts": [
+      "Baamini Plain"
+    ],
+    "sizes": [
+      6.480000019073486
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      253.25,
+      118.73,
+      280.51,
+      127.02
+    ],
+    "text": "\u0b86\u0bae\u0bcd \u0bc7\u0bca\u0b9f\u0bbf",
+    "fonts": [
+      "ArialUnicodeMS"
+    ],
+    "sizes": [
+      6.480000019073486
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      280.49,
+      119.18,
+      282.43,
+      129.94
+    ],
+    "text": ")",
+    "fonts": [
+      "Latha"
+    ],
+    "sizes": [
+      6.480000019073486
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      282.41,
+      120.94,
+      287.33,
+      127.42
+    ],
+    "text": ",",
+    "fonts": [
+      "Baamini Plain"
+    ],
+    "sizes": [
+      6.480000019073486
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      287.33,
+      118.73,
+      318.99,
+      127.02
+    ],
+    "text": "\u0baa\u0b95\u0bca\u0bb4\u0bc1\u0bae\u0bcd\u0baa\u0bc1",
+    "fonts": [
+      "ArialUnicodeMS"
+    ],
+    "sizes": [
+      6.480000019073486
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      319.01,
+      120.94,
+      338.23,
+      127.42
+    ],
+    "text": "00100,",
+    "fonts": [
+      "Baamini Plain"
+    ],
+    "sizes": [
+      6.480000019073486
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      341.95,
+      118.73,
+      369.65,
+      127.02
+    ],
+    "text": "\u0b87\u0bb2\u0b99\u0bcd\u0bae\u0b95",
+    "fonts": [
+      "ArialUnicodeMS"
+    ],
+    "sizes": [
+      6.480000019073486
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      26.88,
+      170.06,
+      71.28,
+      181.1
+    ],
+    "text": "Issued By",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      26.88,
+      197.06,
+      50.62,
+      208.1
+    ],
+    "text": "Date",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      15.72,
+      111.59,
+      194.72,
+      128.56
+    ],
+    "text": "\u0db8\u0dd4\u0daf\u0dbd\u0dca, \u0d9a\u0dca\u200d\u0dbb\u0db8\u0dc3\u0db8\u0dca\u0db4\u0dcf\u0daf\u0db1 \u0dc3\u0dc4 \u0d86\u0dbb\u0dca\u0dae\u0dd2\u0d9a \u0dc3\u0d82\u0dc0\u0dbb\u0dca\u0dae\u0db0\u0db1 \u0d85\u0db8\u0dcf\u0dad\u0dca\u200d\u0dba\u0d82\u0dc1\u0dba, \u0db8\u0dc4 \u0dbd\u0dbd\u0dca\u0d9a\u0db8\u0dca \u0d9a\u0dcf\u0dbb\u0dca\u0dae\u0dba\u0dcf\u0dbd\u0dba (3 \u0dc0\u0dd0\u0db1\u0dd2 \u0db8\u0dc4\u0dbd), \u0dbd\u0d9a\u0dcf\u0dc5\u0db9 001000, \u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0",
+    "fonts": [
+      "ArialNarrow",
+      "IskoolaPota"
+    ],
+    "sizes": [
+      6.960000038146973
+    ]
+  }
+]

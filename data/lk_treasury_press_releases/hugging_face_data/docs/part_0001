@@ -1728,5 +1728,25 @@
     "url_metadata": "https://www.treasury.gov.lk//web/press-releases/section/2026",
     "lang": "si",
     "url_pdf": "https://www.treasury.gov.lk//api/file/45f4f90c-f5e2-413b-828e-25fb1d183808"
+  },
+  {
+    "doc_type": "lk_treasury_press_releases",
+    "doc_id": "2026-10-08-0c397b",
+    "num": "0c397b",
+    "date_str": "2026-10-08",
+    "description": "Government Securities Trade  Summary S 07.10.2026",
+    "url_metadata": "https://www.treasury.gov.lk//web/press-releases/section/2026",
+    "lang": "en",
+    "url_pdf": "https://www.treasury.gov.lk//api/file/2305f78b-1b78-45dc-81b1-8b519eeb1fe3"
+  },
+  {
+    "doc_type": "lk_treasury_press_releases",
+    "doc_id": "2026-10-08-4caed4",
+    "num": "4caed4",
+    "date_str": "2026-10-08",
+    "description": "Government Securities Trade  Summary E 07.10.2026",
+    "url_metadata": "https://www.treasury.gov.lk//web/press-releases/section/2026",
+    "lang": "en",
+    "url_pdf": "https://www.treasury.gov.lk//api/file/8cb4ff18-f4aa-4d84-8a56-c2c68a4e75a1"
   }
 ]

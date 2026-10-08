@@ -1,0 +1,81 @@
+==== BLOCKS ==== 
+
++94 11-2484604
+
+info@pdmo.gov.lk
+
+https://www.treasury.gov.lk/web/public-debt-management-office
+
+TREASURY BILL AUCTION HELD ON 07 OCTOBER 2026
+
+Maturity
+
+(Days)
+
+Amount
+
+Offered
+
+Bids Received
+
+Amount Accepted (a)
+
+Weighted Average Yield Rate
+
+(WAYR) (%) Current Auction
+
+Last Auction 91 LKA09127A083 35,000 78,385 44,112 9.26 9.25
+
+182 LKA18227D092 25,000 58,433 29,508 9.44 9.41
+
+364 LKA36427J085 20,000 27,902 6,380 9.95 9.95
+
+Total 80,000 164,720 80,000 All amounts are in Rs. Millions.
+
+(a) The date of settlement is 09 October 2026.
+
+The Phase II subscription for ISINs LKA18227D092 and LKA36427J085 is now open until 3.00 pm of business day prior to settlement date (i.e., 08.10.2026) at the WAYRs determined for the said ISINs at the auction.
+
+In the Phase II, the aggregate eligible amount for subscription from the said maturities would be the difference of amount accepted vs amount plus 10% of the aggregate amount offered at the auction.
+
+In the event of oversubscription, allocation will be made based on aggregate successful participation by participants at the auction. The requirement to maintain a minimum amount for a bid at primary auction remains applicable for the Phase II.
+
+Public Debt Management Office
+
+07 October 2026
+
+රාජ්‍ය ණය කළමනාකරණ කාර්
+
+යාලය
+
+ப ொது கடன் மேலொண்மே அலுவலகம்
+
+Public Debt Management Office
+
+Ministry of Finance, Planning and Economic Development The Secretariat (3rd Floor), Colombo 00100, Sri Lanka
+
+epjp> jpl;lkply; kw;Wk; nghUshjhu mgptpUj;jp mikr;R
+
+பெயலகம்
+
+(
+
+3
+
+ஆம் ேொடி
+
+)
+
+,
+
+பகொழும்பு
+
+00100,
+
+இலங்மக
+
+Issued By
+
+Date
+
+මුදල්, ක්‍රමසම්පාදන සහ ආර්ථික සංවර්ථධන අමාත්‍යංශය, මහ ලල්කම් කාර්ථයාලය (3 වැනි මහල), ලකාළඹ 001000, ශ්‍රී ලංකාව
