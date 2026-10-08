@@ -2,15 +2,15 @@
   "doc_class_label": "lk_treasury_press_releases",
   "doc_class_emoji": "\ud83d\udcb0",
   "doc_class_description": "A Sri Lanka Treasury press release shares key govt financial updates\u2014on budgets, debt, or policy\u2014vital for transparency, guiding investors, citizens, and markets on the nation\u2019s economic direction.",
-  "time_updated": "2026-10-08 11:17:50",
-  "n_docs": 175,
-  "n_docs_with_pdfs": 174,
-  "n_docs_with_text": 174,
+  "time_updated": "2026-10-08 12:32:52",
+  "n_docs": 177,
+  "n_docs_with_pdfs": 176,
+  "n_docs_with_text": 176,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2015-09-08",
   "date_str_max": "2026-10-08",
-  "dataset_size": 177265364,
+  "dataset_size": 178104588,
   "url_source_list": [
     "https://www.treasury.gov.lk"
   ],
@@ -18,17 +18,17 @@
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_treasury/refs/heads/data_lk_treasury_press_releases/data/lk_treasury_press_releases/docs_by_year_and_lang.png",
   "langs": [
     "si",
-    "en",
-    "ta"
+    "ta",
+    "en"
   ],
   "latest_doc_d": {
     "doc_type": "lk_treasury_press_releases",
-    "doc_id": "2026-10-08-4caed4",
-    "num": "4caed4",
+    "doc_id": "2026-10-08-bc0bb4",
+    "num": "bc0bb4",
     "date_str": "2026-10-08",
-    "description": "Government Securities Trade  Summary E 07.10.2026",
+    "description": "Financing from the Asian Development Bank (ADB) for the Rooftop Solar Integration and Virtual Net Metering Project with a Grant Component from European Union and the Government of Japan - English",
     "url_metadata": "https://www.treasury.gov.lk//web/press-releases/section/2026",
     "lang": "en",
-    "url_pdf": "https://www.treasury.gov.lk//api/file/8cb4ff18-f4aa-4d84-8a56-c2c68a4e75a1"
+    "url_pdf": "https://www.treasury.gov.lk//api/file/0618ccc4-0e55-4782-938c-228b489c0b05"
   }
 }
