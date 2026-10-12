@@ -1,12 +1,12 @@
 # 💰#SriLanka 🇱🇰 Treasury Press Releases `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--10--12_05:12:56-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--10--12_06:57:42-green)
 
 [https://github.com/nuuuwan/lk_treasury/tree/data_lk_treasury_press_releases/data/lk_treasury_press_releases](https://github.com/nuuuwan/lk_treasury/tree/data_lk_treasury_press_releases/data/lk_treasury_press_releases)
 
 A Sri Lanka Treasury press release shares key govt financial updates—on budgets, debt, or policy—vital for transparency, guiding investors, citizens, and markets on the nation’s economic direction.
 
-- [**177** documents](https://github.com/nuuuwan/lk_treasury/tree/data_lk_treasury_press_releases/data/lk_treasury_press_releases) (**178.6 MB**), from **2015-09-08** to **2026-10-08**, scraped from [https://www.treasury.gov.lk](https://www.treasury.gov.lk)
+- [**178** documents](https://github.com/nuuuwan/lk_treasury/tree/data_lk_treasury_press_releases/data/lk_treasury_press_releases) (**179.2 MB**), from **2015-09-08** to **2026-10-12**, scraped from [https://www.treasury.gov.lk](https://www.treasury.gov.lk)
 
 - In **JSON**, **PDF** (99%), **TXT** (99%) & **🤗 Hugging Face** (99%)
 
@@ -19,13 +19,13 @@ A Sri Lanka Treasury press release shares key govt financial updates—on budget
 ```json
 {
     "doc_type": "lk_treasury_press_releases",
-    "doc_id": "2026-10-08-bc0bb4",
-    "num": "bc0bb4",
-    "date_str": "2026-10-08",
-    "description": "Financing from the Asian Development Bank (ADB) for the Rooftop Solar Integration and Virtual Net Metering Project with a Grant Component from European Union and the Government of Japan - English",
+    "doc_id": "2026-10-12-3075bf",
+    "num": "3075bf",
+    "date_str": "2026-10-12",
+    "description": "Offer Document | Domestic Dollar Bonds (DDBs)",
     "url_metadata": "https://www.treasury.gov.lk//web/press-releases/section/2026",
     "lang": "en",
-    "url_pdf": "https://www.treasury.gov.lk//api/file/0618ccc4-0e55-4782-938c-228b489c0b05"
+    "url_pdf": "https://www.treasury.gov.lk//api/file/739d9cb7-ca49-4f64-8ea2-17c1b2e487df"
 }
 ```
 
@@ -40,6 +40,7 @@ A Sri Lanka Treasury press release shares key govt financial updates—on budget
 
 ## 🆕 20 Latest documents
 
+- 2026-10-12 | `3075bf` | Offer Document | Domestic Dollar Bonds (DDBs) | [data](https://github.com/nuuuwan/lk_treasury/tree/data_lk_treasury_press_releases/data/lk_treasury_press_releases/2020s/2026/2026-10-12-3075bf)
 - 2026-10-08 | `bc0bb4` | Financing from the Asian Development Bank (ADB) for the Rooftop Solar Integration and Virtual Net Metering Project with a Grant Component from European Union and the Government of Japan - English | [data](https://github.com/nuuuwan/lk_treasury/tree/data_lk_treasury_press_releases/data/lk_treasury_press_releases/2020s/2026/2026-10-08-bc0bb4)
 - 2026-10-08 | `6a341c` | පියැසිපාදක සූර්ය බලශක්තිය එක් කිරීමේ සහ අථත්‍ය ශුද්ධ මනුකරණය පිළිබඳ ව්‍යාපෘතිය සඳහා යුරෝපා සංගමය හා ජපන් රජයේ ප්‍රධාන සංරචකයක් සහිතව ආසියානු සංවර්ධන බැංකුවෙන් (ADB) මූල්‍ය ආධාර ලබා ගැනීම | [data](https://github.com/nuuuwan/lk_treasury/tree/data_lk_treasury_press_releases/data/lk_treasury_press_releases/2020s/2026/2026-10-08-6a341c)
 - 2026-10-08 | `4caed4` | Government Securities Trade  Summary E 07.10.2026 | [data](https://github.com/nuuuwan/lk_treasury/tree/data_lk_treasury_press_releases/data/lk_treasury_press_releases/2020s/2026/2026-10-08-4caed4)
@@ -59,7 +60,6 @@ A Sri Lanka Treasury press release shares key govt financial updates—on budget
 - 2026-08-18 | `cb2e2e` | Financial Assistance from the Asian Development Bank for the Post-Cyclone Ditwah Reconstruction and Livelihoods Support Project | [data](https://github.com/nuuuwan/lk_treasury/tree/data_lk_treasury_press_releases/data/lk_treasury_press_releases/2020s/2026/2026-08-18-cb2e2e)
 - 2026-08-18 | `c76735` | ්‍ශ්චාත් දිට්වා සුළිකුණාටුප්‍රතිසංස්කරණ හා ජීවවනෝප්‍ාය සහය වයාප්‍ෘතිය සඳහා ආසියානුසංවර්ධ්‍න බැංකුවවන්මූලය සහය | [data](https://github.com/nuuuwan/lk_treasury/tree/data_lk_treasury_press_releases/data/lk_treasury_press_releases/2020s/2026/2026-08-18-c76735)
 - 2026-08-18 | `97a659` | වෙළඳ, ආයෝජන සහ කර්මාන්ත සංවර්ධන වැඩසටහන - උපවැඩසටහන 1 ක්‍රියාත්මක කිරීම සඳහා ආසියානු සංවර්ධන බැංකුවෙන් (ADB) ඇමරිකානු එක්සත් ජනපද ඩොලර් මිලියන 200ක මූල්‍ය සහාය ලබා ගැනීම | [data](https://github.com/nuuuwan/lk_treasury/tree/data_lk_treasury_press_releases/data/lk_treasury_press_releases/2020s/2026/2026-08-18-97a659)
-- 2026-08-18 | `8d5968` | Financial Assistance of USD 200 Million from the Asian Development Bank (ADB) for the implementation of the Trade, Investment and Industry Development Program- Sub Program 1 | [data](https://github.com/nuuuwan/lk_treasury/tree/data_lk_treasury_press_releases/data/lk_treasury_press_releases/2020s/2026/2026-08-18-8d5968)
 
 ---
 
