@@ -2,33 +2,33 @@
   "doc_class_label": "lk_treasury_press_releases",
   "doc_class_emoji": "\ud83d\udcb0",
   "doc_class_description": "A Sri Lanka Treasury press release shares key govt financial updates\u2014on budgets, debt, or policy\u2014vital for transparency, guiding investors, citizens, and markets on the nation\u2019s economic direction.",
-  "time_updated": "2026-11-05 19:08:41",
-  "n_docs": 180,
-  "n_docs_with_pdfs": 179,
-  "n_docs_with_text": 179,
+  "time_updated": "2026-11-05 20:09:11",
+  "n_docs": 181,
+  "n_docs_with_pdfs": 180,
+  "n_docs_with_text": 180,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2015-09-08",
-  "date_str_max": "2026-10-28",
-  "dataset_size": 180887691,
+  "date_str_max": "2026-11-05",
+  "dataset_size": 180948585,
   "url_source_list": [
     "https://www.treasury.gov.lk"
   ],
   "url_data": "https://github.com/nuuuwan/lk_treasury/tree/data_lk_treasury_press_releases/data/lk_treasury_press_releases",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_treasury/refs/heads/data_lk_treasury_press_releases/data/lk_treasury_press_releases/docs_by_year_and_lang.png",
   "langs": [
+    "en",
     "ta",
-    "si",
-    "en"
+    "si"
   ],
   "latest_doc_d": {
     "doc_type": "lk_treasury_press_releases",
-    "doc_id": "2026-10-28-27b251",
-    "num": "27b251",
-    "date_str": "2026-10-28",
-    "description": "Workshop on Sri Lanka\u2019s National Disaster Risk Financing Strategy",
+    "doc_id": "2026-11-05-c1675f",
+    "num": "c1675f",
+    "date_str": "2026-11-05",
+    "description": "National Single Window for Trade Goes Live from Today",
     "url_metadata": "https://www.treasury.gov.lk//web/press-releases/section/2026",
     "lang": "en",
-    "url_pdf": "https://www.treasury.gov.lk//api/file/e2009cde-e1dd-4197-9ae1-36b650460791"
+    "url_pdf": "https://www.treasury.gov.lk//api/file/a58b87d2-306d-4e9d-b686-fdeb53c30f64"
   }
 }

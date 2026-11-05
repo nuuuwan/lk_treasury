@@ -1,12 +1,12 @@
 # 💰#SriLanka 🇱🇰 Treasury Press Releases `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--11--05_19:08:42-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--11--05_20:09:11-green)
 
 [https://github.com/nuuuwan/lk_treasury/tree/data_lk_treasury_press_releases/data/lk_treasury_press_releases](https://github.com/nuuuwan/lk_treasury/tree/data_lk_treasury_press_releases/data/lk_treasury_press_releases)
 
 A Sri Lanka Treasury press release shares key govt financial updates—on budgets, debt, or policy—vital for transparency, guiding investors, citizens, and markets on the nation’s economic direction.
 
-- [**180** documents](https://github.com/nuuuwan/lk_treasury/tree/data_lk_treasury_press_releases/data/lk_treasury_press_releases) (**180.9 MB**), from **2015-09-08** to **2026-10-28**, scraped from [https://www.treasury.gov.lk](https://www.treasury.gov.lk)
+- [**181** documents](https://github.com/nuuuwan/lk_treasury/tree/data_lk_treasury_press_releases/data/lk_treasury_press_releases) (**180.9 MB**), from **2015-09-08** to **2026-11-05**, scraped from [https://www.treasury.gov.lk](https://www.treasury.gov.lk)
 
 - In **JSON**, **PDF** (99%), **TXT** (99%) & **🤗 Hugging Face** (99%)
 
@@ -19,13 +19,13 @@ A Sri Lanka Treasury press release shares key govt financial updates—on budget
 ```json
 {
     "doc_type": "lk_treasury_press_releases",
-    "doc_id": "2026-10-28-27b251",
-    "num": "27b251",
-    "date_str": "2026-10-28",
-    "description": "Workshop on Sri Lanka\u2019s National Disaster Risk Financing Strategy",
+    "doc_id": "2026-11-05-c1675f",
+    "num": "c1675f",
+    "date_str": "2026-11-05",
+    "description": "National Single Window for Trade Goes Live from Today",
     "url_metadata": "https://www.treasury.gov.lk//web/press-releases/section/2026",
     "lang": "en",
-    "url_pdf": "https://www.treasury.gov.lk//api/file/e2009cde-e1dd-4197-9ae1-36b650460791"
+    "url_pdf": "https://www.treasury.gov.lk//api/file/a58b87d2-306d-4e9d-b686-fdeb53c30f64"
 }
 ```
 
@@ -40,6 +40,7 @@ A Sri Lanka Treasury press release shares key govt financial updates—on budget
 
 ## 🆕 20 Latest documents
 
+- 2026-11-05 | `c1675f` | National Single Window for Trade Goes Live from Today | [data](https://github.com/nuuuwan/lk_treasury/tree/data_lk_treasury_press_releases/data/lk_treasury_press_releases/2020s/2026/2026-11-05-c1675f)
 - 2026-10-28 | `27b251` | Workshop on Sri Lanka’s National Disaster Risk Financing Strategy | [data](https://github.com/nuuuwan/lk_treasury/tree/data_lk_treasury_press_releases/data/lk_treasury_press_releases/2020s/2026/2026-10-28-27b251)
 - 2026-10-16 | `2fbde4` | Pre-Bid Meeting: Domestic Dollar Bond (DDB) 2026 | [data](https://github.com/nuuuwan/lk_treasury/tree/data_lk_treasury_press_releases/data/lk_treasury_press_releases/2020s/2026/2026-10-16-2fbde4)
 - 2026-10-12 | `3075bf` | Offer Document | Domestic Dollar Bonds (DDBs) | [data](https://github.com/nuuuwan/lk_treasury/tree/data_lk_treasury_press_releases/data/lk_treasury_press_releases/2020s/2026/2026-10-12-3075bf)
@@ -59,7 +60,6 @@ A Sri Lanka Treasury press release shares key govt financial updates—on budget
 - 2026-08-24 | `3a77e7` | Accelerated Programme for the Purchase of Paddy during Yala Season - 2026 | [data](https://github.com/nuuuwan/lk_treasury/tree/data_lk_treasury_press_releases/data/lk_treasury_press_releases/2020s/2026/2026-08-24-3a77e7)
 - 2026-08-24 | `299ada` | 2026 යල කන්නයේ වී අස්වනු මිලදී ගැනීමේ කඩිනම් වැඩපිළිවෙල | [data](https://github.com/nuuuwan/lk_treasury/tree/data_lk_treasury_press_releases/data/lk_treasury_press_releases/2020s/2026/2026-08-24-299ada)
 - 2026-08-21 | `57234c` | Establishment of an Independent Appeal Committee for Procurement Sanctions | [data](https://github.com/nuuuwan/lk_treasury/tree/data_lk_treasury_press_releases/data/lk_treasury_press_releases/2020s/2026/2026-08-21-57234c)
-- 2026-08-18 | `cb2e2e` | Financial Assistance from the Asian Development Bank for the Post-Cyclone Ditwah Reconstruction and Livelihoods Support Project | [data](https://github.com/nuuuwan/lk_treasury/tree/data_lk_treasury_press_releases/data/lk_treasury_press_releases/2020s/2026/2026-08-18-cb2e2e)
 
 ---
 
