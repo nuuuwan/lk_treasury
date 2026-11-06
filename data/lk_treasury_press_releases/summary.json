@@ -2,33 +2,33 @@
   "doc_class_label": "lk_treasury_press_releases",
   "doc_class_emoji": "\ud83d\udcb0",
   "doc_class_description": "A Sri Lanka Treasury press release shares key govt financial updates\u2014on budgets, debt, or policy\u2014vital for transparency, guiding investors, citizens, and markets on the nation\u2019s economic direction.",
-  "time_updated": "2026-11-06 14:07:57",
-  "n_docs": 181,
-  "n_docs_with_pdfs": 180,
-  "n_docs_with_text": 180,
+  "time_updated": "2026-11-06 15:08:04",
+  "n_docs": 183,
+  "n_docs_with_pdfs": 182,
+  "n_docs_with_text": 182,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2015-09-08",
-  "date_str_max": "2026-11-05",
-  "dataset_size": 181006964,
+  "date_str_max": "2026-11-06",
+  "dataset_size": 181874612,
   "url_source_list": [
     "https://www.treasury.gov.lk"
   ],
   "url_data": "https://github.com/nuuuwan/lk_treasury/tree/data_lk_treasury_press_releases/data/lk_treasury_press_releases",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_treasury/refs/heads/data_lk_treasury_press_releases/data/lk_treasury_press_releases/docs_by_year_and_lang.png",
   "langs": [
+    "si",
     "ta",
-    "en",
-    "si"
+    "en"
   ],
   "latest_doc_d": {
     "doc_type": "lk_treasury_press_releases",
-    "doc_id": "2026-11-05-c1675f",
-    "num": "c1675f",
-    "date_str": "2026-11-05",
-    "description": "National Single Window for Trade Goes Live from Today",
+    "doc_id": "2026-11-06-aab4a8",
+    "num": "aab4a8",
+    "date_str": "2026-11-06",
+    "description": "Financial Assistance from the Asian Development Bank (ADB) for the Implementation of the Water Supply and Sanitation Reform Program \u2013 Subprogram 2",
     "url_metadata": "https://www.treasury.gov.lk//web/press-releases/section/2026",
     "lang": "en",
-    "url_pdf": "https://www.treasury.gov.lk//api/file/a58b87d2-306d-4e9d-b686-fdeb53c30f64"
+    "url_pdf": "https://www.treasury.gov.lk//api/file/dac9a46d-7bad-493c-a282-38f4b6133e66"
   }
 }

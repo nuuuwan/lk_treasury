@@ -1,12 +1,12 @@
 # 💰#SriLanka 🇱🇰 Treasury Press Releases `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--11--06_14:07:57-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--11--06_15:08:04-green)
 
 [https://github.com/nuuuwan/lk_treasury/tree/data_lk_treasury_press_releases/data/lk_treasury_press_releases](https://github.com/nuuuwan/lk_treasury/tree/data_lk_treasury_press_releases/data/lk_treasury_press_releases)
 
 A Sri Lanka Treasury press release shares key govt financial updates—on budgets, debt, or policy—vital for transparency, guiding investors, citizens, and markets on the nation’s economic direction.
 
-- [**181** documents](https://github.com/nuuuwan/lk_treasury/tree/data_lk_treasury_press_releases/data/lk_treasury_press_releases) (**181.0 MB**), from **2015-09-08** to **2026-11-05**, scraped from [https://www.treasury.gov.lk](https://www.treasury.gov.lk)
+- [**183** documents](https://github.com/nuuuwan/lk_treasury/tree/data_lk_treasury_press_releases/data/lk_treasury_press_releases) (**181.9 MB**), from **2015-09-08** to **2026-11-06**, scraped from [https://www.treasury.gov.lk](https://www.treasury.gov.lk)
 
 - In **JSON**, **PDF** (99%), **TXT** (99%) & **🤗 Hugging Face** (99%)
 
@@ -19,13 +19,13 @@ A Sri Lanka Treasury press release shares key govt financial updates—on budget
 ```json
 {
     "doc_type": "lk_treasury_press_releases",
-    "doc_id": "2026-11-05-c1675f",
-    "num": "c1675f",
-    "date_str": "2026-11-05",
-    "description": "National Single Window for Trade Goes Live from Today",
+    "doc_id": "2026-11-06-aab4a8",
+    "num": "aab4a8",
+    "date_str": "2026-11-06",
+    "description": "Financial Assistance from the Asian Development Bank (ADB) for the Implementation of the Water Supply and Sanitation Reform Program \u2013 Subprogram 2",
     "url_metadata": "https://www.treasury.gov.lk//web/press-releases/section/2026",
     "lang": "en",
-    "url_pdf": "https://www.treasury.gov.lk//api/file/a58b87d2-306d-4e9d-b686-fdeb53c30f64"
+    "url_pdf": "https://www.treasury.gov.lk//api/file/dac9a46d-7bad-493c-a282-38f4b6133e66"
 }
 ```
 
@@ -40,6 +40,8 @@ A Sri Lanka Treasury press release shares key govt financial updates—on budget
 
 ## 🆕 20 Latest documents
 
+- 2026-11-06 | `aab4a8` | Financial Assistance from the Asian Development Bank (ADB) for the Implementation of the Water Supply and Sanitation Reform Program – Subprogram 2 | [data](https://github.com/nuuuwan/lk_treasury/tree/data_lk_treasury_press_releases/data/lk_treasury_press_releases/2020s/2026/2026-11-06-aab4a8)
+- 2026-11-06 | `65e004` | ජල සම්පාදන හා සනීපාරක්ෂක ප්‍රතිසංස්කරණ වැඩසටහන- උප වැඩසටහන 02 ක්‍රියාත්මක කිරීම සඳහා ආසියානු සංවර්ධන බ ැංකුවෙන් (ADB) මූල්‍ය සහාය | [data](https://github.com/nuuuwan/lk_treasury/tree/data_lk_treasury_press_releases/data/lk_treasury_press_releases/2020s/2026/2026-11-06-65e004)
 - 2026-11-05 | `c1675f` | National Single Window for Trade Goes Live from Today | [data](https://github.com/nuuuwan/lk_treasury/tree/data_lk_treasury_press_releases/data/lk_treasury_press_releases/2020s/2026/2026-11-05-c1675f)
 - 2026-10-28 | `27b251` | Workshop on Sri Lanka’s National Disaster Risk Financing Strategy | [data](https://github.com/nuuuwan/lk_treasury/tree/data_lk_treasury_press_releases/data/lk_treasury_press_releases/2020s/2026/2026-10-28-27b251)
 - 2026-10-16 | `2fbde4` | Pre-Bid Meeting: Domestic Dollar Bond (DDB) 2026 | [data](https://github.com/nuuuwan/lk_treasury/tree/data_lk_treasury_press_releases/data/lk_treasury_press_releases/2020s/2026/2026-10-16-2fbde4)
@@ -58,8 +60,6 @@ A Sri Lanka Treasury press release shares key govt financial updates—on budget
 - 2026-08-31 | `306d1a` | Electronic Government Procurement (e-GP) in Sri Lanka | [data](https://github.com/nuuuwan/lk_treasury/tree/data_lk_treasury_press_releases/data/lk_treasury_press_releases/2020s/2026/2026-08-31-306d1a)
 - 2026-08-24 | `fa0282` | Hotel Developers (Lanka) Ltd Records First Profit in Seven Years A Milestone for State Enterprise Reform. | [data](https://github.com/nuuuwan/lk_treasury/tree/data_lk_treasury_press_releases/data/lk_treasury_press_releases/2020s/2026/2026-08-24-fa0282)
 - 2026-08-24 | `3a77e7` | Accelerated Programme for the Purchase of Paddy during Yala Season - 2026 | [data](https://github.com/nuuuwan/lk_treasury/tree/data_lk_treasury_press_releases/data/lk_treasury_press_releases/2020s/2026/2026-08-24-3a77e7)
-- 2026-08-24 | `299ada` | 2026 යල කන්නයේ වී අස්වනු මිලදී ගැනීමේ කඩිනම් වැඩපිළිවෙල | [data](https://github.com/nuuuwan/lk_treasury/tree/data_lk_treasury_press_releases/data/lk_treasury_press_releases/2020s/2026/2026-08-24-299ada)
-- 2026-08-21 | `57234c` | Establishment of an Independent Appeal Committee for Procurement Sanctions | [data](https://github.com/nuuuwan/lk_treasury/tree/data_lk_treasury_press_releases/data/lk_treasury_press_releases/2020s/2026/2026-08-21-57234c)
 
 ---
 
