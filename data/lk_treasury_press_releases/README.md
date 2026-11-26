@@ -1,12 +1,12 @@
 # 💰#SriLanka 🇱🇰 Treasury Press Releases `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--11--26_21:08:35-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--11--26_22:08:12-green)
 
 [https://github.com/nuuuwan/lk_treasury/tree/data_lk_treasury_press_releases/data/lk_treasury_press_releases](https://github.com/nuuuwan/lk_treasury/tree/data_lk_treasury_press_releases/data/lk_treasury_press_releases)
 
 A Sri Lanka Treasury press release shares key govt financial updates—on budgets, debt, or policy—vital for transparency, guiding investors, citizens, and markets on the nation’s economic direction.
 
-- [**184** documents](https://github.com/nuuuwan/lk_treasury/tree/data_lk_treasury_press_releases/data/lk_treasury_press_releases) (**183.1 MB**), from **2015-09-08** to **2026-11-19**, scraped from [https://www.treasury.gov.lk](https://www.treasury.gov.lk)
+- [**185** documents](https://github.com/nuuuwan/lk_treasury/tree/data_lk_treasury_press_releases/data/lk_treasury_press_releases) (**183.5 MB**), from **2015-09-08** to **2026-11-26**, scraped from [https://www.treasury.gov.lk](https://www.treasury.gov.lk)
 
 - In **JSON**, **PDF** (99%), **TXT** (99%) & **🤗 Hugging Face** (99%)
 
@@ -19,13 +19,13 @@ A Sri Lanka Treasury press release shares key govt financial updates—on budget
 ```json
 {
     "doc_type": "lk_treasury_press_releases",
-    "doc_id": "2026-11-19-3aad11",
-    "num": "3aad11",
-    "date_str": "2026-11-19",
-    "description": "ADB Technical Assistance Workshop on Liability Management, Investor Engagement and Sovereign Credit Ratings",
+    "doc_id": "2026-11-26-021871",
+    "num": "021871",
+    "date_str": "2026-11-26",
+    "description": "Financial Assistance from the Asian Development Bank for the Implementation of  the Building a Strong and Inclusive Financial Ecosystem for Micro, Small and Medium\u0002Sized Enterprises Sector Development Program (Subprogram 1)",
     "url_metadata": "https://www.treasury.gov.lk//web/press-releases/section/2026",
     "lang": "en",
-    "url_pdf": "https://www.treasury.gov.lk//api/file/48066923-566e-4729-a537-3d86c8fe0d5d"
+    "url_pdf": "https://www.treasury.gov.lk//api/file/4e2eb486-80f7-4683-a879-4da98bbca78b"
 }
 ```
 
@@ -40,6 +40,7 @@ A Sri Lanka Treasury press release shares key govt financial updates—on budget
 
 ## 🆕 20 Latest documents
 
+- 2026-11-26 | `021871` | Financial Assistance from the Asian Development Bank for the Implementation of  the Building a Strong and Inclusive Financial Ecosystem for Micro, Small and MediumSized Enterprises Sector Development Program (Subprogram 1) | [data](https://github.com/nuuuwan/lk_treasury/tree/data_lk_treasury_press_releases/data/lk_treasury_press_releases/2020s/2026/2026-11-26-021871)
 - 2026-11-19 | `3aad11` | ADB Technical Assistance Workshop on Liability Management, Investor Engagement and Sovereign Credit Ratings | [data](https://github.com/nuuuwan/lk_treasury/tree/data_lk_treasury_press_releases/data/lk_treasury_press_releases/2020s/2026/2026-11-19-3aad11)
 - 2026-11-06 | `aab4a8` | Financial Assistance from the Asian Development Bank (ADB) for the Implementation of the Water Supply and Sanitation Reform Program – Subprogram 2 | [data](https://github.com/nuuuwan/lk_treasury/tree/data_lk_treasury_press_releases/data/lk_treasury_press_releases/2020s/2026/2026-11-06-aab4a8)
 - 2026-11-06 | `65e004` | ජල සම්පාදන හා සනීපාරක්ෂක ප්‍රතිසංස්කරණ වැඩසටහන- උප වැඩසටහන 02 ක්‍රියාත්මක කිරීම සඳහා ආසියානු සංවර්ධන බ ැංකුවෙන් (ADB) මූල්‍ය සහාය | [data](https://github.com/nuuuwan/lk_treasury/tree/data_lk_treasury_press_releases/data/lk_treasury_press_releases/2020s/2026/2026-11-06-65e004)
@@ -59,7 +60,6 @@ A Sri Lanka Treasury press release shares key govt financial updates—on budget
 - 2026-09-10 | `0eaec3` | Sri Lanka Strengthens Institutional Capacity in Sovereign Risk and Debt Sustainability Analysis | [data](https://github.com/nuuuwan/lk_treasury/tree/data_lk_treasury_press_releases/data/lk_treasury_press_releases/2020s/2026/2026-09-10-0eaec3)
 - 2026-09-09 | `677047` | දේශීය ආදායම් දෙපාර්තමේන්තුව විසින් අනුකූලතා අවශ්‍යතා සපුරන ලද VAT ආපසු ගෙවීම් ඉල්ලීම්වලින් 99.98% ක්, දින 29 ක සාමාන්‍යයක් තුළ සාර්ථකව නිකුත් කරයි | [data](https://github.com/nuuuwan/lk_treasury/tree/data_lk_treasury_press_releases/data/lk_treasury_press_releases/2020s/2026/2026-09-09-677047)
 - 2026-08-31 | `306d1a` | Electronic Government Procurement (e-GP) in Sri Lanka | [data](https://github.com/nuuuwan/lk_treasury/tree/data_lk_treasury_press_releases/data/lk_treasury_press_releases/2020s/2026/2026-08-31-306d1a)
-- 2026-08-24 | `fa0282` | Hotel Developers (Lanka) Ltd Records First Profit in Seven Years A Milestone for State Enterprise Reform. | [data](https://github.com/nuuuwan/lk_treasury/tree/data_lk_treasury_press_releases/data/lk_treasury_press_releases/2020s/2026/2026-08-24-fa0282)
 
 ---
 

@@ -2,33 +2,33 @@
   "doc_class_label": "lk_treasury_press_releases",
   "doc_class_emoji": "\ud83d\udcb0",
   "doc_class_description": "A Sri Lanka Treasury press release shares key govt financial updates\u2014on budgets, debt, or policy\u2014vital for transparency, guiding investors, citizens, and markets on the nation\u2019s economic direction.",
-  "time_updated": "2026-11-26 21:08:35",
-  "n_docs": 184,
-  "n_docs_with_pdfs": 183,
-  "n_docs_with_text": 183,
+  "time_updated": "2026-11-26 22:08:12",
+  "n_docs": 185,
+  "n_docs_with_pdfs": 184,
+  "n_docs_with_text": 184,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2015-09-08",
-  "date_str_max": "2026-11-19",
-  "dataset_size": 183126064,
+  "date_str_max": "2026-11-26",
+  "dataset_size": 183494363,
   "url_source_list": [
     "https://www.treasury.gov.lk"
   ],
   "url_data": "https://github.com/nuuuwan/lk_treasury/tree/data_lk_treasury_press_releases/data/lk_treasury_press_releases",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_treasury/refs/heads/data_lk_treasury_press_releases/data/lk_treasury_press_releases/docs_by_year_and_lang.png",
   "langs": [
+    "ta",
     "en",
-    "si",
-    "ta"
+    "si"
   ],
   "latest_doc_d": {
     "doc_type": "lk_treasury_press_releases",
-    "doc_id": "2026-11-19-3aad11",
-    "num": "3aad11",
-    "date_str": "2026-11-19",
-    "description": "ADB Technical Assistance Workshop on Liability Management, Investor Engagement and Sovereign Credit Ratings",
+    "doc_id": "2026-11-26-021871",
+    "num": "021871",
+    "date_str": "2026-11-26",
+    "description": "Financial Assistance from the Asian Development Bank for the Implementation of  the Building a Strong and Inclusive Financial Ecosystem for Micro, Small and Medium\u0002Sized Enterprises Sector Development Program (Subprogram 1)",
     "url_metadata": "https://www.treasury.gov.lk//web/press-releases/section/2026",
     "lang": "en",
-    "url_pdf": "https://www.treasury.gov.lk//api/file/48066923-566e-4729-a537-3d86c8fe0d5d"
+    "url_pdf": "https://www.treasury.gov.lk//api/file/4e2eb486-80f7-4683-a879-4da98bbca78b"
   }
 }
