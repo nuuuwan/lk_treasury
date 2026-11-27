@@ -2,15 +2,15 @@
   "doc_class_label": "lk_treasury_press_releases",
   "doc_class_emoji": "\ud83d\udcb0",
   "doc_class_description": "A Sri Lanka Treasury press release shares key govt financial updates\u2014on budgets, debt, or policy\u2014vital for transparency, guiding investors, citizens, and markets on the nation\u2019s economic direction.",
-  "time_updated": "2026-11-27 18:10:59",
-  "n_docs": 186,
-  "n_docs_with_pdfs": 185,
-  "n_docs_with_text": 185,
+  "time_updated": "2026-11-27 19:08:02",
+  "n_docs": 187,
+  "n_docs_with_pdfs": 186,
+  "n_docs_with_text": 186,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2015-09-08",
-  "date_str_max": "2026-11-26",
-  "dataset_size": 184676163,
+  "date_str_max": "2026-11-27",
+  "dataset_size": 184912039,
   "url_source_list": [
     "https://www.treasury.gov.lk"
   ],
@@ -23,12 +23,12 @@
   ],
   "latest_doc_d": {
     "doc_type": "lk_treasury_press_releases",
-    "doc_id": "2026-11-26-bd9e72",
-    "num": "bd9e72",
-    "date_str": "2026-11-26",
-    "description": "\u0d9a\u0dca\u0dc2\u0dd4\u0daf\u0dca\u200d\u0dbb, \u0d9a\u0dd4\u0da9\u0dcf \u0dc4\u0dcf \u0db8\u0db0\u0dca\u200d\u0dba \u0db4\u0dbb\u0dd2\u0db8\u0dcf\u0dab \u0dc0\u0dca\u200d\u0dba\u0dc0\u0dc3\u0dcf\u0dba (MSME) \u0dc3\u0db3\u0dc4\u0dcf \u0dc1\u0d9a\u0dca\u0dad\u0dd2\u0db8\u0dad\u0dca \u0dc3\u0dc4 \u0d85\u0db1\u0dca\u0dad\u0dbb\u0dca\u0d9c\u0dca\u200d\u0dbb\u0dc4\u0dab\u0dba\u0d9a\u0dca \u0dc3\u0dc4\u0dd2\u0dad \u0db8\u0dd6\u0dbd\u0dca\u200d\u0dba \u0db4\u0dbb\u0dd2\u0dc3\u0dbb \u0db4\u0daf\u0dca\u0db0\u0dad\u0dd2\u0dba\u0d9a\u0dca \u0d9c\u0ddc\u0da9\u0db1\u0dd0\u0d9c\u0dd3\u0db8\u0dda \u0d86\u0d82\u0dc1\u0dd2\u0d9a \u0dc3\u0d82\u0dc0\u0dbb\u0dca\u0db0\u0db1 \u0dc0\u0dd0\u0da9\u0dc3\u0da7\u0dc4\u0db1 (\u0d8b\u0db4\u0dc0\u0dd0\u0da9\u0dc3\u0da7\u0dc4\u0db1 1) \u0d9a\u0dca\u200d\u0dbb\u0dd2\u0dba\u0dcf\u0dad\u0dca\u0db8\u0d9a \u0d9a\u0dd2\u0dbb\u0dd3\u0db8 \u0dc3\u0db3\u0dc4\u0dcf \u0d86\u0dc3\u0dd2\u0dba\u0dcf\u0db1\u0dd4 \u0dc3\u0d82\u0dc0\u0dbb\u0dca\u0db0\u0db1 \u0db6\u0dd0\u0d82\u0d9a\u0dd4\u0dc0\u0dd9\u0db1\u0dca \u0db8\u0dd6\u0dbd\u0dca\u200d\u0dba \u0dc3\u0dc4\u0dcf\u0dba",
+    "doc_id": "2026-11-27-172b1f",
+    "num": "172b1f",
+    "date_str": "2026-11-27",
+    "description": "S&P Global Ratings Upgrades Sri Lanka\u2019s Sovereign Credit Ratings to \u2018B\u2212/B\u2019",
     "url_metadata": "https://www.treasury.gov.lk//web/press-releases/section/2026",
-    "lang": "si",
-    "url_pdf": "https://www.treasury.gov.lk//api/file/4e173bcc-d746-4f2d-a0fc-11c8ff3ca4a5"
+    "lang": "en",
+    "url_pdf": "https://www.treasury.gov.lk//api/file/75c08cc0-d0dd-4abf-88f2-66f48c9e65ec"
   }
 }
