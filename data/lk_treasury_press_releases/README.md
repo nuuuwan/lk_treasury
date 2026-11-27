@@ -1,12 +1,12 @@
 # 💰#SriLanka 🇱🇰 Treasury Press Releases `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--11--27_20:09:01-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--11--27_21:08:31-green)
 
 [https://github.com/nuuuwan/lk_treasury/tree/data_lk_treasury_press_releases/data/lk_treasury_press_releases](https://github.com/nuuuwan/lk_treasury/tree/data_lk_treasury_press_releases/data/lk_treasury_press_releases)
 
 A Sri Lanka Treasury press release shares key govt financial updates—on budgets, debt, or policy—vital for transparency, guiding investors, citizens, and markets on the nation’s economic direction.
 
-- [**187** documents](https://github.com/nuuuwan/lk_treasury/tree/data_lk_treasury_press_releases/data/lk_treasury_press_releases) (**185.1 MB**), from **2015-09-08** to **2026-11-27**, scraped from [https://www.treasury.gov.lk](https://www.treasury.gov.lk)
+- [**188** documents](https://github.com/nuuuwan/lk_treasury/tree/data_lk_treasury_press_releases/data/lk_treasury_press_releases) (**185.5 MB**), from **2015-09-08** to **2026-11-27**, scraped from [https://www.treasury.gov.lk](https://www.treasury.gov.lk)
 
 - In **JSON**, **PDF** (99%), **TXT** (99%) & **🤗 Hugging Face** (99%)
 
@@ -19,13 +19,13 @@ A Sri Lanka Treasury press release shares key govt financial updates—on budget
 ```json
 {
     "doc_type": "lk_treasury_press_releases",
-    "doc_id": "2026-11-27-172b1f",
-    "num": "172b1f",
+    "doc_id": "2026-11-27-2202bf",
+    "num": "2202bf",
     "date_str": "2026-11-27",
-    "description": "S&P Global Ratings Upgrades Sri Lanka\u2019s Sovereign Credit Ratings to \u2018B\u2212/B\u2019",
+    "description": "Financial Assistance of USD 100 Million from the Asian Development Bank (ADB) for the Implementation of the Promoting Resilience and Opportunity for Inclusive Recovery Program (Sub Program 01)",
     "url_metadata": "https://www.treasury.gov.lk//web/press-releases/section/2026",
     "lang": "en",
-    "url_pdf": "https://www.treasury.gov.lk//api/file/75c08cc0-d0dd-4abf-88f2-66f48c9e65ec"
+    "url_pdf": "https://www.treasury.gov.lk//api/file/4a2cf6a3-5715-411e-a0b6-88b1c0349f72"
 }
 ```
 
@@ -40,6 +40,7 @@ A Sri Lanka Treasury press release shares key govt financial updates—on budget
 
 ## 🆕 20 Latest documents
 
+- 2026-11-27 | `2202bf` | Financial Assistance of USD 100 Million from the Asian Development Bank (ADB) for the Implementation of the Promoting Resilience and Opportunity for Inclusive Recovery Program (Sub Program 01) | [data](https://github.com/nuuuwan/lk_treasury/tree/data_lk_treasury_press_releases/data/lk_treasury_press_releases/2020s/2026/2026-11-27-2202bf)
 - 2026-11-27 | `172b1f` | S&P Global Ratings Upgrades Sri Lanka’s Sovereign Credit Ratings to ‘B−/B’ | [data](https://github.com/nuuuwan/lk_treasury/tree/data_lk_treasury_press_releases/data/lk_treasury_press_releases/2020s/2026/2026-11-27-172b1f)
 - 2026-11-26 | `bd9e72` | ක්ෂුද්‍ර, කුඩා හා මධ්‍ය පරිමාණ ව්‍යවසාය (MSME) සඳහා ශක්තිමත් සහ අන්තර්ග්‍රහණයක් සහිත මූල්‍ය පරිසර පද්ධතියක් ගොඩනැගීමේ ආංශික සංවර්ධන වැඩසටහන (උපවැඩසටහන 1) ක්‍රියාත්මක කිරීම සඳහා ආසියානු සංවර්ධන බැංකුවෙන් මූල්‍ය සහාය | [data](https://github.com/nuuuwan/lk_treasury/tree/data_lk_treasury_press_releases/data/lk_treasury_press_releases/2020s/2026/2026-11-26-bd9e72)
 - 2026-11-26 | `021871` | Financial Assistance from the Asian Development Bank for the Implementation of  the Building a Strong and Inclusive Financial Ecosystem for Micro, Small and MediumSized Enterprises Sector Development Program (Subprogram 1) | [data](https://github.com/nuuuwan/lk_treasury/tree/data_lk_treasury_press_releases/data/lk_treasury_press_releases/2020s/2026/2026-11-26-021871)
@@ -59,7 +60,6 @@ A Sri Lanka Treasury press release shares key govt financial updates—on budget
 - 2026-10-05 | `0261d5` | Continuation of the Programme for Provision of Relief to People Affected by the War Situation in the Middle East -English | [data](https://github.com/nuuuwan/lk_treasury/tree/data_lk_treasury_press_releases/data/lk_treasury_press_releases/2020s/2026/2026-10-05-0261d5)
 - 2026-10-02 | `9deefc` | IRD implemented the facilitation of Web API integration with RAMIS by publishing the guidelines for VAT return filing. | [data](https://github.com/nuuuwan/lk_treasury/tree/data_lk_treasury_press_releases/data/lk_treasury_press_releases/2020s/2026/2026-10-02-9deefc)
 - 2026-09-22 | `2a26a1` | Fitch Ratings Upgrades Sri Lanka to ‘B-‘with a Stable Outlook | [data](https://github.com/nuuuwan/lk_treasury/tree/data_lk_treasury_press_releases/data/lk_treasury_press_releases/2020s/2026/2026-09-22-2a26a1)
-- 2026-09-10 | `0eaec3` | Sri Lanka Strengthens Institutional Capacity in Sovereign Risk and Debt Sustainability Analysis | [data](https://github.com/nuuuwan/lk_treasury/tree/data_lk_treasury_press_releases/data/lk_treasury_press_releases/2020s/2026/2026-09-10-0eaec3)
 
 ---
 
